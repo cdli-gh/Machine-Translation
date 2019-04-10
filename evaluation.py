@@ -66,26 +66,31 @@ def evaluate_model(model, tokenizer, sources, raw_dataset):
 	print('BLEU-4: %f' % corpus_bleu(actual, predicted, weights=(0.25, 0.25, 0.25, 0.25)))
  
 # load datasets
-dataset = load_clean_sentences('english-sumerian-both.pkl')
-train = load_clean_sentences('english-sumerian-train.pkl')
-test = load_clean_sentences('english-sumerian-test.pkl')
+dataset = load_clean_sentences('eng-sum.pkl')
+train = load_clean_sentences('eng-sum_train.pkl')
+test = load_clean_sentences('eng-sum_test.pkl')
+
 # prepare english tokenizer
-eng_tokenizer = create_tokenizer(dataset[:, 0])
+eng_tokenizer = create_tokenizer(x[0] for x in dataset)
 eng_vocab_size = len(eng_tokenizer.word_index) + 1
-eng_length = max_length(dataset[:, 0])
-# prepare german tokenizer
-sum_tokenizer = create_tokenizer(dataset[:, 1])
+eng_length = max_length(x[0] for x in dataset)
+
+# prepare sumerian tokenizer
+sum_tokenizer = create_tokenizer(x[1] for x in dataset)
 sum_vocab_size = len(sum_tokenizer.word_index) + 1
-sum_length = max_length(dataset[:, 1])
+sum_length = max_length(x[1] for x in dataset)
+
 # prepare data
-trainX = encode_sequences(sum_tokenizer, sum_length, train[:, 1])
-testX = encode_sequences(sum_tokenizer, sum_length, test[:, 1])
+trainX = encode_sequences(sum_tokenizer, sum_length, [x[1] for x in train])
+testX = encode_sequences(sum_tokenizer, sum_length, [x[1] for x in test])
  
 # load model
 model = load_model('model.h5')
+
 # test on some training sequences
 print('train')
 evaluate_model(model, eng_tokenizer, trainX, train)
+
 # test on some test sequences
 print('test')
 evaluate_model(model, eng_tokenizer, testX, test)
