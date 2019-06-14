@@ -6,7 +6,6 @@ mu huhnuri bahul
 lukala
 dubsar
 dumu ure
-
 NUMB sila
 u NUMB
 ki abasagata
@@ -5326,7 +5325,7 @@ urcarake inla
 iti cunumun
 mu amarsuen lugal
 dumu lugalucur
-'animdagan
+animdagan
 lugal mari
 amar banda ana
 etemenigurni
@@ -6143,7 +6142,7 @@ mu bad badu
 mahazum X
 puc X
 ebla mari tutul X
-urgic X |EZENÃ—X|NIickur
+urgic X |EZEN×X|NIickur
 X abarnum
 u kur erin kur mada madabi
 kur cubura gaba gaba aba iginima X X
@@ -6542,7 +6541,7 @@ ancan u cucinam
 adahucu
 sukkal u ipir ca cucin
 dumu nin silhaha
-e |ENÃ—KUR|
+e |EN×KUR|
 mudu
 titi
 kamu
@@ -6799,7 +6798,7 @@ ericdingir
 X lu ura
 X banu
 nunzu nitabi
-nam|KAÃ—X|zu
+nam|KA×X|zu
 lu lura
 indabla
 iluruguce

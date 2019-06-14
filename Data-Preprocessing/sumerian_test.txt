@@ -948,7 +948,7 @@ NUMB mana ara NUMB
 NUMB ku aldara
 NUMB mun gur lugal
 NUMB naga gur
-dug sila |IGIÃ—X|
+dug sila |IGI×X|
 NUMB ku X
 ku aba
 har X
