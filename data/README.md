@@ -1,7 +1,7 @@
+# Data Summary
 
 
 
-
-> python preprocess.py -train_src data/src-train.txt -train_tgt data/tgt-train.txt -valid_src data/src-val.txt -valid_tgt data/tgt-val.txt -save_data data/data -src_vocab_size 1000 -tgt_vocab_size 1000
-
-> python train.py -data data/data -save_model /n/rush_lab/data/tmp_ -world_size 1 -gpu_ranks 0 -rnn_size 100 -word_vec_size 50 -layers 1 -train_steps 100 -optim adam  -learning_rate 0.001
+# Note for developers:
+1. You may face Windows Latin Encoding errors with data, use Linux system for preprocessing.
+2. Don't use '\n' for appending new lines with given data while writing data files into .txt files. Sumerian has data is not compatible with it, you will end with uneven parallel phrases. To handle this situation, use dataframe and write data into .csv files.
