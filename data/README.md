@@ -1,5 +1,5 @@
 ## Data Summary
-Total 21,496 prallel phrases were provided by organizatation. [Link for Orginal Data](https://github.com/cdli-gh/mtaac_cdli_ur3_corpus/blob/master/ur3_corpus_data/translated_parallel_data/english_train).
+Total 21,496 prallel phrases were provided by organizatation. [Link for Orginal Data](https://github.com/cdli-gh/mtaac_cdli_ur3_corpus/tree/master/ur3_corpus_data/translated_parallel_data).
 
 Preprocessing the data, Steps:
 1. Removing duplicate phrases
