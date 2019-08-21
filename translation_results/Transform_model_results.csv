@@ -1,0 +1,1015 @@
+,Sumerian - Input,English - Exact,English - Predicted
+0,NUMB sila ce sa ce inuha,"NUMB sila3 barley … straw ,",NUMB ban NUMB sila barley
+1,NUMB sila gugalgal mua,"NUMB sila3 , chickpeas , grown ,",NUMB sila3 NUMB shekel silver
+2,NUMB sila guturtur mua,"NUMB sila3 lentils , grown ,",NUMB sila3 NUMB shekel silver
+3,NUMB sila gig mua,"NUMB sila3 wheat , grown ,",NUMB sila3 wheat ;
+4,NUMB sila imgaga mua,"NUMB sila3 … grown ,","NUMB , NUMB ban NUMB sila spelt"
+5,NUMB sila ce inuha mua,"NUMB sila3 barley , straw , grown ,",NUMB sila3 barley ;
+6,NUMB sila gugalgal X X,"NUMB sila3 chickpeas , … ,",NUMB sila3 …
+7,NUMB sila guturtur X X,"NUMB sila3 lentils , … ,",NUMB sila3 …
+8,NUMB sila cegeci X,"NUMB sila3 sesame oil , … ,","NUMB sila3 sesame seeds ,"
+9,ma anace ca X,"for the boat of An , in … ,",for boat of An ;
+10,ekicnugalce,for the Ekišnugal temple,"Babati ,"
+11,urdublamah,"Ur-dublamaḫ ,","Babati ,"
+12,dumu X,"son of ARAD-… ,",son of Ur-…
+13,situm,the remaining ( carry-over deficit ) ;,remaining ( deficit )
+14,NUMB ku sagkur,"NUMB , NUMB “ headed ” fish ,","NUMB silver , agul silver ,"
+15,kubi NUMB gin NUMB ce,"their silver : NUMB shekels , NUMB grains ;",its silver : NUMB shekel NUMB grains ;
+16,NUMB ku cabar,"NUMB gutted fish , their silver : NUMB shekels","NUMB silver , agul silver ,"
+17,kubi NUMB gin,their silver : NUMB shekels,its silver : NUMB shekels ;
+18,NUMB gu siki,"NUMB talents of wool ,","NUMB ox ,"
+19,ca kiciba,under seal .,in Kar-geštin
+20,NUMB ku girus,"NUMB , NUMB slit fish ,","NUMB silver , agul silver ,"
+21,NUMB iku,"NUMB fish oil ,","NUMB breaks another man’s tooth ,"
+22,NUMB zulum gur,"NUMB of dates ,",NUMB dates
+23,kubi NUMB mana NUMB gin,"their silver : NUMB mana , NUMB shekels ;",ist silver : NUMB mana NUMB shekels ;
+24,mu enmahgalana bahun,year : “ Enmaḫgalana was installed ” AS NUMB .,Year : “ Enmahgalana was installed ” .
+25,mu enunugal inanna bahun,year : “ En-unugal-Inanna was installed ” AS NUMB .,year : “ Enunugal was hired . ”
+26,NUMB ummu,"NUMB water skins ,","( and ) NUMB water skins ,"
+27,kubi NUMB gin NUMB ce,"their silver : NUMB shekel , NUMB grains ;",its silver : NUMB shekel NUMB grains ;
+28,NUMB esir X,NUMB pairs ? of leather sandals,"NUMB … for bitumen ,"
+29,kubi NUMB gin X,their silver : NUMB shekel …,its silver : NUMB shekels ;
+30,kubi n,their silver : …,"its silver equivalent : NUMB ( shekel ) NUMB grains ,"
+31,ce icahka,barley of the lard .,…barley…
+32,cunigin NUMB mana NUMB gin NUMB ce kubabbar,"Together : NUMB mana , NUMB shekels , NUMB grains of silver",total : NUMB minas NUMB shekels NUMB grains of silver ;
+33,NUMB mana la NUMB gin NUMB ce kubabbar,"NUMB mana NUMB shekel , NUMB grains of silver ,","NUMB mana NUMB shekels NUMB grains silver ,"
+34,kubi NUMB mana NUMB gin,"their silver : NUMB mana , NUMB shekels ,",ist silver : NUMB mana NUMB shekels ;
+35,kicib lukala,under the seal of Lukalla ;,sealed tablet of Lukalla .
+36,NUMB sila icah gur,"NUMB , NUMB , NUMB , NUMB sila3 of lard ,","NUMB sila3 lard ,"
+37,kubi NUMB mana NUMB gin la NUMB ce,"its silver : NUMB mana , NUMB shekels NUMB grains ,",its silver : NUMB mana NUMB shekels NUMB grains ;
+38,kicib urculpae,under the seal of Ur-Šulpae ;,under seal of Ur-Šulpa’e ;
+39,NUMB sila gectin had sadu lugal,"NUMB sila3 of raisins , royal supplement ,","NUMB , NUMB ban , NUMB sila of raisins ,"
+40,NUMB sila gectin had giri lugalcala,"NUMB sila3 of raisins via Lugal-šala ,","NUMB , Lugal-šala , NUMB ban ,"
+41,kubi NUMB,their silver : NUMB shekel ;,its silver : NUMB shekel ;
+42,NUMB kabkul,"NUMB wooden k-containers ,",NUMB ( mana wool for ) Ur-Urbartab
+43,kubi NUMB gin,their silver : NUMB shekels ;,its silver : NUMB shekels ;
+44,kicib agu,under the seal of Agu ;,under seal of Agu ;
+45,NUMB gin ku uruda urima,"NUMB shekels of silver for Ur copper ,","NUMB shekels silver , copper of Ur ,"
+46,giri urlamma u elubizu,via Ur-Lamma and Elubizu .,"via Ur-Lamma , Duduli ,"
+47,cunigin NUMB mana NUMB ce kubabbar,"Together : NUMB mana , NUMB shekel , NUMB grains of silver",total : NUMB minas NUMB shekel NUMB grains of silver ;
+48,laia NUMB mana NUMB gin NUMB ce kubabbar,"debit : NUMB mana , NUMB shekel , NUMB grains of silver ;","Deficit : NUMB mana , NUMB shekels , NUMB grains of silver ."
+49,nigkak ceckala damgar,"account of Šeškala , the trade agent ;","account of Šeškalla , the trade agent ;"
+50,mu enunugal inanna bahun,year : “ En-unugal-Inanna was installed . ”,year : “ Enunugal was hired . ”
+51,ninkununa,To Ninkununa,for Ninkununa
+52,NUMB icah,"NUMB of lard ,","NUMB lard ,"
+53,u amarduta baradua,"when from … they were released ,","and …-zi ,"
+54,geme babde,the female workers brought ( ? ) ;,"female laborers , ( each ) NUMB female laborer days ,"
+55,ki luginata,from Lugina ( ’s account ),from Lugina ;
+56,luenki,for Lu-Enki ;,bvia Lu-Enki ;
+57,NUMB gin i NUMB gin naga,"NUMB shekels oils , NUMB shekels alkali-plant ,",NUMB shekels oil ; NUMB shekels alkali-plant ;
+58,laqip,for Laqīp ;,"Babati ,"
+59,urdari,for Ur-dari ;,"Babati ,"
+60,aliah,for Ali’aḫ ;,"Babati ,"
+61,duili,for Du-ilī ;,Du-ilī ;
+62,cunigin NUMB sila kac NUMB sila ninda,total : NUMB sila3 beer ; NUMB sila3 bread ;,"total : NUMB sila3 beer , NUMB sila3 bread ,"
+63,NUMB sila NUMB gin cum,NUMB sila3 NUMB shekels onions ;,"NUMB sila3 of onions ,"
+64,NUMB sila NUMB gin i,NUMB sila3 NUMB shekel oil ;,"NUMB lamb , NUMB shekels oil ,"
+65,NUMB gin naga,NUMB shekels alkali plant ;,"NUMB shekels alkali-plant ,"
+66,NUMB udu abul bara utu,"NUMB sheep , city gate , dais of Utu ;","NUMB sheep of Utu ,"
+67,NUMB udu abul baba,"NUMB sheep , city gate of Baba ;","NUMB sheep , …"
+68,NUMB udu abul egal,"NUMB sheep , city gate , palace ;","NUMB sheep of the palace ,"
+69,NUMB udu abul nance,"NUMB sheep , city gate of Nanše ;","NUMB sheep , Nanše ,"
+70,NUMB udu eunuce,"NUMB sheep , House-of-Uruk ;","NUMB sheep , NUMB lambs ,"
+71,NUMB udu ga magura ningeczida,"NUMB sheep , cabin of the barge of Ningešzida ;","NUMB suckling sheep , …"
+72,NUMB udu gudea,"NUMB sheep , Gudea ;","NUMB sheep , Gudea ,"
+73,NUMB udu urlamma ensi,"NUMB sheep , Ur-Lamma , the governor ;","NUMB sheep , Ur-Lamma , the governor ,"
+74,siskur ga guce,offering for milk-feeding ;,siskur-offering suckling ;
+75,giri akala luinima,"via Akalla , man of testimony ;","via Akalla , …"
+76,ziga ki lugalnamah,booked out of the place of Lugal-nammaḫ ;,from Lugal-tugmaḫ ;
+77,iti ezemdumuzi u NUMB,"month : “ Festival of Dumuzi , ” day NUMB ,","month “ Festival of Dumuzi , ” ordNUMB day completed ,"
+78,mu magurmah badim,year : “ Great-barge was fashioned . ”,year : “ Great-barge was fashioned ; ”
+79,X X X hia,Assorted …,various …
+80,namrac,into booty,that which into booty
+81,hadak,I made .,"Babati ,"
+82,NEC lugal,… the king,the king
+83,X,"of … ,",of Nun-… ;
+84,caga,into captivity,for Šaga ;
+85,henidab,"I took ,","Babati ,"
+86,cumu barabatae,and I did not let him escape my hand .,"Babati ,"
+87,lu hul,A person who the order of a wicked thing,to another man
+88,NUMB kikken adabar saga,NUMB millstone of high-quality black basalt ( ? ),"NUMB ( gur ) NUMB , fine quality ,"
+89,lugalitida,( for ) Lugal-itida,Lugal-itida ;
+90,NUMB kikken adabar,NUMB millstone of black basalt,NUMB ( mana wool for ) mill ;
+91,akala acgab,"( for ) Akalla , the leatherworker ;","Ur-Šulpae , the leatherworker ,"
+92,NUMB kikken ucmu X,"NUMB millstone ( of black basalt for ) Ušmu ,","NUMB … for Ninḫursag ,"
+93,NUMB kikken akadani,"NUMB millstone ( of black basalt for ) Akadani ,",NUMB ( mana wool for ) mill ;
+94,NUMB kikken carazame,"NUMB millstone ( of black basalt for ) Šara-zame ,","NUMB Šara-zame ,"
+95,ki aduta,"from Adu ,",from ADU
+96,kicib urnumucda,the sealed tablet of Ur-Numushda .,sealed tablet of Ur-Numušda .
+97,mu usa cusuen lugale bad martu mudu,Year after : “ The king Šu-Suen erected the Amorite wall . ”,"year after : “ Šu-Suen , the king , the Martu Wall erected . ”"
+98,NUMB amar macdamunus,NUMB young female gazelle,NUMB female gazelle fawn
+99,dada ensi,"( from ) Dada , governor ;","( from ) Dada , the governor ,"
+100,NUMB sila umu,NUMB lamb ( from ) U’umu ;,NUMB lamb for …
+101,NUMB sila ceckala,NUMB lamb ( from ) Šeshkalla ;,"NUMB lamb of Šeškalla ,"
+102,idab,"has accepted ,",took control of .
+103,mu cusuen lugal,year : “ Šu-Suen became king . ”,year “ Šu-Suen is king . ”
+104,NUMB udu u,"NUMB grass ( -fed ) sheep ? ,","NUMB sheep , grass-fed ,"
+105,ki culgilita,from Šulgi-ili,from Šulgi-ilī
+106,urkununa,did Ur-kununa,Ur-kunna
+107,idab,accept .,took control of .
+108,mu e cara umma badu,year : “ the house of Šara in Umma was erected . ”,year : “ The house of Šara of Umma was erected . ”
+109,duga dubsar,"Duga , scribe ,",Duga accepted .
+110,sipa nagabtum,herdsman of the Nakabtum .,shepherds of nagabtum
+111,luculgi,"Lu-Šulgi ,","Babati ,"
+112,NUMB gin kubabbar,NUMB shekel of silver,NUMB shekel silver
+113,ki cunisabata,from Šu-Nisaba,from Turaya
+114,mu ludingirake,Since Lu-dingira,year “ … ”
+115,kicib nutukuace,"did not have a seal ,",under seal of Da’agi ;
+116,kicib duganizi ibra,the seal of Duganizi was rolled ;,"under seal of Duganizi , supervisor of oxen ,"
+117,mu e cara badu,"year : “ The house of Šara was erected , ”",year : “ The house of Šara was erected . ”
+118,duganizi,"Duganizi ,",she is the slave girl of Duganizi . ”
+119,dumu urcakkan cuc,"son of Ur-Šakkan , cattle manager ( ? ) .","son of Lugal-engardug ,"
+120,NUMB gin inun gur,"NUMB shekels butter oil ,","… NUMB shekels butter oil ,"
+121,NUMB sila NUMB gin gaUD@g gur,"NUMB sila3 NUMB shekels kašk cheese ,","NUMB , NUMB , NUMB , NUMB sila3 NUMB shekels flour ,"
+122,situm mu amarsuen lugale urbilum muhul,"debits of the year : “ Amar-Suen , the king , destroyed Urbilum ; ”",Year : “ King Amar-Suen destroyed Urbilum . ”
+123,NUMB sila inun gur,"NUMB sila3 butter oil ,","and NUMB sila3 of ghee ,"
+124,NUMB sila gaUD@g gur,"NUMB sila3 kašk cheese ,","NUMB sila3 , Luga…"
+125,ki luzabalata,from Lu-Zabala ;,from Turaya
+126,NUMB inun,"NUMB butter oil ,","… butter oil ,"
+127,NUMB gaUD@g,"NUMB kašk cheese ,",NUMB ( mana wool for ) Ur-Urbartab
+128,ki urmamita,from Ur-Mami ;,from Turaya
+129,ki urnigarta,from Ur-nigar ;,from Ur-nigar
+130,ki dugeta,from Duge ;,from Turaya
+131,ki caramuta,from Šara-amu ;,from Turaya
+132,ki lugalcunireta,"from Lugal-šunire ,",from Turaya
+133,ki ceckalata,from Šeškala ;,"from Šeškalla ,"
+134,ki ursudata,from Ur-Suda ;,from Turaya
+135,ki guzanata,from Guzana ;,from Turaya
+136,ki buduta,from Budu ;,from Turaya
+137,ki albaniduta,from Albanidu ;,from Turaya
+138,ki UCta,from UŠ ;,from Turaya
+139,ki akicarta,from Akišar ;,from Turaya
+140,cuGIRbi NUMB sila,its šuGIR : NUMB sila3 ;,NUMB lamb ;
+141,NUMB sila i magura,NUMB sila3 ( butter ) oil for “ Barge ; ”,"NUMB lambs of oil , NUMB shekels of naga ,"
+142,cunigin NUMB sila NUMB gin inun gur,"total : NUMB sila3 NUMB shekels butter oil ,","together : NUMB sila NUMB shekels of ghee ,"
+143,cunigin NUMB sila NUMB gin gaUD@g gur,"total : NUMB sila3 NUMB shekels kašk cheese ,","total : NUMB sila3 NUMB shekels ,"
+144,NUMB sila ga gazi,"NUMB sila3 sumac-cheese ,",NUMB suckling lamb for …
+145,giri urcakkan,via Ur-Šakkan ;,via Intake ;
+146,NUMB sila gacea gur,"NUMB sila3 yellowed milk ,","NUMB sila3 , Luga…"
+147,giri kas,via Kas ;,via Kas
+148,ziga bala,booked out of the bala ( obligation ),bala credits of the bala ;
+149,mu amarsuen lugale urbilum muhul,"of the year : “ Amar-Suen , the king , destroyed Urbilum ; ”",year : “ xxx . ”
+150,NUMB sila ga gazi,"NUMB ban NUMB sila3 sumac-cheese ,",NUMB suckling lamb for …
+151,NUMB sila gaUD@g,"NUMB ban3 NUMB sila3 kašk cheese ,",NUMB lamb for …
+152,ziga bala mu ku guza enlila badim,booked out of the bala ( obligation ) of the year : “ the silvery chair of Enlil was fashioned ; ”,year : “ silver-chair of Enlil was fashioned . ”
+153,NUMB mana NUMB gin kubabbar,NUMB mana NUMB shekel silver,"NUMB mana NUMB shekels silver ,"
+154,ara NUMB,"the first time ,","twofold ,"
+155,NUMB mana NUMB gin ku,NUMB mana NUMB shekels silver,"NUMB mana NUMB shekels silver ,"
+156,ara NUMB,"the second time ,","twofold ,"
+157,giri lukala,"via Lukala ,",via Lukalla ;
+158,giri urcara caduba,"via Ur-Šara the chief accountant ,","via Ur-Šara , chief accountant ;"
+159,NUMB gin NUMB ce ku,NUMB shekels NUMB grains silver,"NUMB shekels … grains of silver ,"
+160,giri luzabala,"via Lu-Zabala ,","via Lu-Zabala , the"
+161,sag nabi NUMB gin NUMB ce ku,"its “ ( scales ) stone overhead ” : NUMB shekel NUMB grains silver ,",whose stone
+162,inunbi NUMB sila NUMB gin gur,its butter oil : NUMB sila3 NUMB shekels ;,"NUMB , NUMB , NUMB shekels ,"
+163,sadu ara NUMB,"first sadu-allotment ,",second time .
+164,sadu ara NUMB,"second sadu-allotment ,",second time .
+165,NUMB gacea gibilce,"NUMB yellowed milk … ,",NUMB ( mana wool for ) Nari-daḫ . ha ( ? )
+166,kacdea lugal ummace gena,"beer festival when the king went to Umma ,",walked and fattening oxen to the king
+167,kicibi NUMB,"their sealed documents : NUMB ,","its sealed tablets : NUMB ,"
+168,ugu lukala gagadam,to be entered to the debit account of Lukala ;,it is to be placed ( on ) the debit account ( of ) Lukalla placed ;
+169,kicib lukala,"under seal of Lukala ,",sealed tablet of Lukalla .
+170,ugu ure gagadam,to be entered to the debit account of Ur-e'e ;,it is to be placed ( on ) the debit account ( of ) Ur-e’e set ;
+171,NUMB sila NUMB gin inun gur,"NUMB sila3 NUMB shekels butter oil ,","NUMB sila3 NUMB shekels flour ,"
+172,NUMB gacea gur,"NUMB yellowed milk ,","NUMB … gur … ,"
+173,kicib urculpae,under seal of Ur-Šulpa'e ;,under seal of Ur-Šulpa’e ;
+174,cunigin NUMB sila NUMB gin ga gazi gur,"total : NUMB sila3 NUMB shekels sumac-cheese ,",total : NUMB sila3 NUMB shekels oil ;
+175,gaUD@gbi NUMB sila NUMB gin,"its kašk cheese : NUMB sila3 NUMB shekels ,","NUMB lamb , NUMB shekels ,"
+176,cunigin NUMB gaUD@g gur,"total : NUMB sila3 kašk cheese ,",total : NUMB … NUMB sila3 gur ;
+177,cunigin NUMB sila gacea gur,"total NUMB sila3 yellowed milk ,","total : NUMB , NUMB sila3 of"
+178,inunbi NUMB sila NUMB gin,"its butter oil : NUMB sila3 NUMB shekels ,","NUMB lamb , NUMB shekels ,"
+179,gaUD@gbi NUMB sila NUMB gin,its kašk cheese : NUMB sila3 NUMB shekels ;,"NUMB lamb , NUMB shekels ,"
+180,laia NUMB sila NUMB gin inun gur,"the deficit : NUMB sila3 NUMB shekels butter oil ,","Deficit : NUMB , NUMB shekels workdays ,"
+181,nigkak inun gar,account of butter oil and kašk cheese of,"accounts of clarified butter ,"
+182,atu cuc,"Atu , the chief cattle manager ;","Atu , chief cattle administrator ,"
+183,mu ku guza enlila badim,year : “ The silver-chair of Enlil was fashioned . ”,year : “ silver-chair of Enlil was fashioned . ”
+184,nin ku nuna,"Ninkununa ,",Ninkununa
+185,lusaizu,"Lu-sa-izu ,",of Lu-sa-izu
+186,icib ana,"the incantation-priest of An ,","priest of An ,"
+187,gudu cu dadag,the priest with pure hands,gudu ( -officiant ) of the Emaḫ .
+188,u dingir galgalene,"and all the great gods ,","true god , grass-fed ,"
+189,kiag,as NUMB beloved,beloved
+190,sipa kalamace,"the shepherd of the country ,","as the shepherd of his country ,"
+191,u bad martu,when the Mardu wall,"and the Amorite wall ,"
+192,muriq,( named ) That Which Keeps Distant,"Babati ,"
+193,tidnim,"the Tidnum ,","Babati ,"
+194,mudua,"he had built ,","I built ,"
+195,u ne martu,and the forces of the Mardu,"and PI-bi2-il , Amorite wall ,"
+196,madane,to his own land,"Babati ,"
+197,bingia,"he had sent back ,","Babati ,"
+198,e cage pada,"the Temple Chosen by the Heart ,","nominated ,"
+199,NUMB acgar niga saga us,"NUMB female kid , grain-fed , fine , second ( quality ) ,","NUMB female kids , barley-fed , ordNUMB grade ,"
+200,NUMB ud,"NUMB nanny ,","NUMB female goat ,"
+201,ki cumamata,from Šu-Mama,from Turaya
+202,NUMB ninda gid NUMB kuc dagal ihi NUMB kuc sukud,"( Pise wall : ) NUMB ninda the length , NUMB cubits the average width , NUMB cubits the depth ;",NUMB ninda NUMB cubits the length ;
+203,NUMB nindana NUMB sarta,"per ( running ) ninda NUMB ( volume ) sar ,","NUMB sar , hoed at NUMB sar ( per day ) ,"
+204,kinbi NUMB sar,work involved : NUMB ( volume ) sar ;,"NUMB sar , hoed at NUMB sar ( per day ) ,"
+205,guruc NUMB gin NUMB ceta,per worker ( day ) : NUMB ( volume ) shekels ;,"the barley , NUMB shekels workdays ,"
+206,guruc NUMB ani NUMB silata,disbursement per workerday : NUMB sila3 ( barley ) ;,"NUMB male workers , NUMB sila3 each"
+207,cebi NUMB sila gur,the barley : NUMB sila3 ;,"NUMB sila3 ,"
+208,lu hungame,they are hired men ;,to another man
+209,NUMB ninda gid NUMB kuc dagal NUMB kuc sukud,"( Pise wall : ) NUMB ninda the length , NUMB cubits the width , NUMB cubits the depth ;",NUMB ninda NUMB cubits the length ;
+210,kinbi NUMB sar NUMB gin,work involved : NUMB ( volume ) sar NUMB ( volume ) shekels ;,"NUMB sar , NUMB shekels ,"
+211,gantucme,they are gantuš ;,"Babati ,"
+212,im dua gida,"pisé wall construction , drawn long ,",tablets
+213,kiri babainimsisa,in the orchard of Baba-inim-sisa ;,orchard …
+214,ca garcumka,of Garšum ;,in Kar-geštin
+215,giri urbaba dumu cabrae,"responsible : Ur-Baba , son of the household manager ,","via Ur-Baba , son of … ,"
+216,lugalmusuda,"Lugal-musuda ,","Babati ,"
+217,u lugalbaba dumu urlamma,and Lugal-baba son of Ur-Lamma ;,"and Ur-Lamma , son of Ur-nig ,"
+218,mu ibisuen lugal,the year : “ Ibbi-Suen is king . ”,year : “ Ibbi-Suen is king . ”
+219,NUMB udu niga inanna unu,"NUMB barley-fed sheep ( for ) Inanna of Uruk ,","NUMB sheep , barley-fed , for Inanna of Uruk ,"
+220,giri lugalimah sagi,"via Lugalimah , cupbearer ;","via cupbearer , responsible official ;"
+221,NUMB udu ce NUMB sila ga,"NUMB barley-fed sheep , a milk-fed lamb","NUMB rams , NUMB male lambs ,"
+222,ictaran,"( for ) Ištaran ,","Babati ,"
+223,nuhidingirum mackim,"from Nuhi-ilum , the deputy ;","…-zi , responsible official ;"
+224,NUMB sila ga nanna,"NUMB milk-fed lamb ( for ) Nanna ,","NUMB suckling male lambs ,"
+225,eranada mackim,"from Erranada , the deputy ;","…-zi , responsible official ;"
+226,siskur ca egal,an offering in the palace ;,siskur-offering in the palace ;
+227,NUMB macgal niga ilidagan,"NUMB barley-fed large-goat , from Ili-Dagan ,","NUMB buck , barley-fed , for Ilī-Dagan from Ebla ;"
+228,lu ebla,man of Ebla ;,Ebla Ebla
+229,NUMB macgal niga,"NUMB barley-fed large-goat ,","NUMB bucks , barley-fed ,"
+230,budur lu urcu,"from … , man of Uršu","to the man of Uršu ,"
+231,NUMB macgal niga nagizu lu kingia ca X,"NUMB large barley-fed goat , Nagizu , messenger from Ar-…","NUMB buck , barley-fed , … ,"
+232,giri lugalinimgina,via Lugalinimgina ( and ),via Lugal-inim-gina .
+233,ARADmu ugula kas,"ARAD-mu , overseer of the messengers ;","ARADmu , foreman of Kas ,"
+234,iti u NUMB bazal,"ff the month , NUMB days have passed ,","of the month day NUMB passed ,"
+235,ki ahunita bazi,"booked out of ( the account of ) Ahuni ,",from ( the account of ) Aḫuni booked out ;
+236,iti sesdagu,"month : “ Eating piglets , ”","month : “ Piglet-feast , ”"
+237,mu amarsuen lugal,year : “ Amar-Suen became king . ”,year : “ Amar-Suen king ” .
+238,lugal kiengi ki uri,king of Sumer and Akkad .,"king of Sumer and Akkad ,"
+239,bizu,for Bizu ;,"Babati ,"
+240,dingirsukkal,for Dingir-sukkal ;,"for Dingir-sukkal ,"
+241,nurickur,for Nūr-Adda ;,"Nūr-Adda ,"
+242,nigbaba,for Nig-Baba ;,Nig-Baba
+243,mu cusuen lugal urimake ma darabzu enkika bindu,"year : “ The Shu-Suen , king of Ur , the boat ( named ) ‘Ibex-of-Abzu’ caulked . ”","year : “ Šu-Suen , king of Ur , the boat of Enki fashioned . ”"
+244,ninmar,"To Ninmar ,",For Ninmar
+245,nin munusgilsa,"the queen of the Munus-gilsa temple ,","( to ) the queen of the Eanna temple ,"
+246,enmeziana,"( whose second name is ) En-mezi-ana ,","( whose second name is ) Enmeziana ,"
+247,en kiag nanceka,"( and also ) the beloved high priest of Nanše ,","the beloved en-priest of ,"
+248,NUMB mac,"NUMB billy ,",NUMB goat
+249,intaea,did Intae’a,Inta’e’a
+250,im namcatam,"tablets official ,","documents , official ,"
+251,ugula NUMB,foremen of the NUMB ( -man ( labor- ) troops ) of,foreman : NUMB foreman : NUMB
+252,daumma,"Da’umma ,",in Da-Umma
+253,apisal,"Apisal ,","in Apisal ,"
+254,u mucbian,and Mušbiana,"and …-zi ,"
+255,mu urbilum u mu kimac,year : “ Urbilum and Kimaš were destroyed . ”,"and the year : “ Urbilum , ”"
+256,endimgig,"of Endimgig ,","Babati ,"
+257,gilgamese,May Gilgameš,"Babati ,"
+258,kicib didli X,"sealed documents , varied , … ,","various sealed documents … ,"
+259,e luginata dea,"from the house ( ? ) of Lugina delivered ,",the house of Lugina ;
+260,dumu urgigir,son of Ur-gigir,"son of Ur-gigir ,"
+261,ki lu muhaldimta,"from Lu'u , the cook ,",from another man …
+262,lukala,Lukalla,for Lukalla ;
+263,iti amarasi,"month : “ amar-ayasi , ”",month “ Amar-ayasi ” ;
+264,mu enmahgal nanna bahun,year “ Enmaḫgal of Nanna was installed . ”,year : “ the en-priestess of Nanna was installed . ”
+265,laia NUMB ce gur,"the deficit : NUMB ,","the deficit : NUMB , NUMB barley ;"
+266,aca dalbana,field Dalbana ;,"( s ) between the ( canal ) outlets to explore , sent back ;"
+267,diri NUMB gur,the surplus : NUMB,surplus : NUMB
+268,aca igi eamar,field before E-amar ;,"before : field of ,"
+269,laia NUMB gur,the deficit : NUMB,"the deficit : NUMB , NUMB ;"
+270,aca edurubazi,field Village-bazi ;,field Muru ;
+271,NUMB GAN,NUMB ( esze3 ) NUMB ( iku ) GAN2,per NUMB
+272,aca abila,field Ab-illa ;,field Muru ;
+273,cunigin NUMB GAN,"total : NUMB field surface ,",total : NUMB surface area at NUMB each ;
+274,ugula cuea,"foreman : Šu-Ea ,","foreman : Šu-Ea ,"
+275,NUMB ku gabIL,NUMB gabIL fish baskets ;,"NUMB silver , agul silver ,"
+276,NUMB guruc u NUMB ma mucen,"NUMB workdays , male laborers , barge of the birds ;","NUMB workdays , male laborers ,"
+277,NUMB guruc u NUMB ziga didli,"NUMB workdays , male laborers , various “ booked-outs ” ;","NUMB workdays , male laborers , various ,"
+278,mu NUMB,ordNUMB year ;,for NUMB years
+279,NUMB ku nun saga,"NUMB nun-fish , good quality ;","NUMB Noble Canal ,"
+280,ku diri nudab,surplus fish not taken ;,"surplus : extra silver , agul silver ,"
+281,albanidu,Albanidu,"Albanidu ,"
+282,iti ezemculgi,"from month : “ Festival of Šulgi , ”",month : “ Šulgi ; ”
+283,iti ezembaba,"to month : Festival of Baba , ”","month “ Festival-of-Baba , ”"
+284,mu karhar ara NUMB bahulce,year : “ Karḫar for the ordNUMB time was destroyed . ”,"year : “ Karhar for the ordNUMB time was destroyed , ”"
+285,NUMB gu cugid,"NUMB oxen , šugid-type ,","NUMB šugid offerings ,"
+286,enlila,Enlila,"by Enlil ,"
+287,mu en eridu bahun,year : “ The high priest of Eridu was installed . ”,Year : She was installed as en-priestess of Eridu
+288,nance,To Nanše,"For Nanše ,"
+289,nincagepada,For Ninšagepada,"Babati ,"
+290,abi u NUMB,"the labor : NUMB days ,",its labor : NUMB days
+291,ada guba,"at the water ( works ) stationed ,",irrigation work in the Adda stationed ;
+292,aca amarkici,"the field “ Amar-kiši , ”",field Muru ;
+293,aca muru,"the field “ Center , ”",field Muru ;
+294,aca i lugalka,"the field “ Royal waterway , ”","field Bur… ,"
+295,adea,"water poured ,","Irrigation , … ,"
+296,ka i eka kura,"intake of the out-waterway cut off ,","Lu-… ,"
+297,ka i eta,from the intake of the out-waterway,"she has no sons ,"
+298,aca amarkici X cura,to field “ Amar-kiši ” … leveled ;,field … ;
+299,ugula X X,"foreman : … ,","foreman : Lugal-… ,"
+300,kicib egalesi,"under seal of Egalesi ,",sealed by Egalesi ;
+301,mu usa cusuen lugale bad martu mudu,"year following : “ Šu-Suen , the king , Martu wall erected . ”","year after : “ Šu-Suen , the king , the Martu Wall erected . ”"
+302,dumu lubaba,son of Lu-Baba .,"son of Lu-Baba ,"
+303,X,of …-abba,of Nun-… ;
+304,eneru,enuru :,"Babati ,"
+305,muce kurmucta KA namgi,The snake from snake mountain indeed called .,…
+306,meTAR an kika,The lizard of heaven and of earth,king of NUMB quarters :
+307,eme baniak,licked .,"jenny ,"
+308,dumu meTAR an ki NUMB,"The sons of the lizard , heaven and earth , are NUMB .","from NUMB children , NUMB mina each ;"
+309,pu lilam idu,The well like wind it made .,", porters ,"
+310,a lilam inde,Water like wind he poured out .,dedicated ( this ) .
+311,gug lilam zabi ibdab,Grass like wind its right encircled .,"NUMB , seized ,"
+312,gugbi gabuni,"Its grass , his left","Babati ,"
+313,mubze,it tore out .,"Babati ,"
+314,X cu umagi,Then his … held firm .,… received .
+315,X X zu helae,… the ( snake’s ) fang may he bind .,"… , … ,"
+316,tutu abzu eriduga asarluhi dumu eriduke,"The incantations ( ? ) of the Abzu of Eridu of Asalluhi , son of Eridu :","in Eridu , son of … ;"
+317,namudabure,may they not be undone .,"Babati ,"
+318,nisaba,"Nisaba ,","To Nisaba ,"
+319,munuszi,"the righteous woman ,","Babati ,"
+320,munus saga,the beautiful woman .,"the beautiful woman ,"
+321,adakala,"Addakala ,",Adda-kalla .
+322,musar,"wrote ,","Babati ,"
+323,igiza hensa,( so that ) in your eyes he indeed pleased .,may he find favor .
+324,bala saga,Good bala .,"fine the bala good quality ,"
+325,urama,"Ur-amma ,",Ur-amma ;
+326,dumu nasilim,"son of Nasilim ,",son of Nasilim .
+327,mu didli ceba,"various years , barley rations ,","various years of barley rations ,"
+328,ce erina,barley of the ( labor- ) troops,barley of the work-troops ;
+329,u cabi suga,"and therefroms , restitutions ,","and therefroms , restitutions ,"
+330,nigka ceka,"accounts of barley ,",done account of
+331,mu cusuen lugal urimake madarabzu enkika bindu,"year : “ By Šu-Suen , king of Ur , the boat ‘Ibex-of-Apsu’ of Enki was caulked . ”","year : “ Šu-Suen , king of Ur , the boat of Enki fashioned . ”"
+332,dumu nasa kurucda,"son of Nasa , the fattener ,","son of Nasa , fattener ."
+333,ekur,"the Ekur ,","the lapis lazuli Ekur ,"
+334,iti X,"month : “ . . , ”",month : …
+335,kicib daba gi,"sealed documents of dab , reed ,","sealed documents of dab ,"
+336,ARADeb,"ARAD-eb ,","Babati ,"
+337,GAN urgigir cabra,"land parcel of Ur-gigir , the chief administrator ;","surface area , the chief household administrator of Ur-gigir ,"
+338,GAN urgigir nubandagu,"land parcel of Ur-gigir , oxen manager ;","land of Ur-gigir , the supervisor of oxen ,"
+339,GAN lugalgue,land parcel of Lugal-gue ;,“ surface ” ;
+340,gi zea gi kua u hirina zea,"reed uprooted , reed cut and hirin-weed uprooted ;","reed uprooted , …"
+341,aca agectina,field “ A-geština ; ”,field Muru ;
+342,ugula lugirizal,foreman : Lu-giri-zal ;,"foreman : Lu-girizal ,"
+343,kicib ceckala dumu dada,"under seal of Šeškalla , son of Dada ;","under seal of Šeškalla , son of Dada ;"
+344,iti cunumun,month : month “ Sowing ; ”,"Month : “ Sowing ” ( ordNUMB month , Umma calendar ) ,"
+345,mu enmahgalana nanna bahun,year : “ Enmaḫgalana of Nanna was installed . ”,year : “ Enmaḫgalana as priestess of Nanna was installed . ”
+346,lugalniglagare,"Lugal-nig-lagare ,","Lugal-nig-lagar-e ,"
+347,NUMB sila lal,"NUMB sila3 date syrup ,",NUMB lamb for …
+348,NUMB amarsag uztur,"NUMB a . -ducklings ,",NUMB ( mana wool for ) Ninmu-ḫamušizu
+349,NUMB kuda,"NUMB k . ,","NUMB ( mana wool for ) Kuda ,"
+350,kubi NUMB gin la NUMB,its silver : NUMB shekel NUMB ;,"its silver : NUMB ( mana ) NUMB shekels ,"
+351,NUMB pecgecgi,"NUMB bandicoot rats ,",NUMB ( mana wool for ) Ur-Urbartab
+352,kubi NUMB ce,their silver : NUMB ( shekel ) NUMB ( ? ) grains ;,it silver : NUMB grains ;
+353,NUMB amarsag uga,"NUMB a . -crow ,","NUMB , Uga ,"
+354,NUMB ku kunzi saga,"NUMB reservoir fish , fine quality ,","NUMB silver , agul silver ,"
+355,kubi NUMB gin NUMB ce,"their silver : NUMB shekels NUMB , NUMB grains ;",its silver : NUMB shekel NUMB grains ;
+356,nesag enlila,"“ first fruits ” of Enlil ,","from Enlil ,"
+357,kicib halulu,under seal of Ḫalulu ;,under seal of Da’agi ;
+358,mu e puzurdagan,year : “ Puzriš-Dagan . ”,"year : “ The house of Puzriš-Dagan , ”"
+359,lugalezem dubsar,"Lugal-ezem , the scribe ,","Lugal-ezem , the scribe ,"
+360,cabra,the chief household manager .,"household manager ,"
+361,hepi X,"( Royal name ) broken ,",…
+362,X,the king,of Nun-… ;
+363,X puzurecdar,son of Puzur-Eštar,"( from ) Puzur-Ešdar ,"
+364,ina mahri,before,"Babati ,"
+365,i,the Divine River,"the Divine River ,"
+366,mactaba,"the Twin Gods ,","Babati ,"
+367,u ictaran,"and Ištaran ,","and …-zi ,"
+368,i,"The Divine River ,","the Divine River ,"
+369,ictaran,"Ištaran ,","Babati ,"
+370,u mactaba,"and the Twin Gods ,","and …-zi ,"
+371,lilqutu,may they pluck up,"Babati ,"
+372,adi sidarkicu,as far as his …,"Babati ,"
+373,kima pi X X ca ina sipar,According to the wording of an old stone stela which in Sippar,in … ;
+374,NUMB remutum X X NUMB X,"Rēmũtum , the junior scribe , ( son of ) Su-… ,",NUMB ( mana wool for ) NUMB ( ? ) . . ;
+375,"us,abima isuh",examined and excerpted .,"Babati ,"
+376,ki enuga urima,the place of the watch in Ur,from the prison residing ;
+377,ki enugaba,This place of the watch :,from Turaya
+378,kiag nanna,Is the Beloved of Nanna,"beloved by Nanna ,"
+379,NUMB zi sig gur lugal,"NUMB rough flour , royal ( measure ) ,","NUMB , NUMB rough ground flour ,"
+380,NUMB dabin gur,"NUMB dabin-flour ,","NUMB , NUMB , NUMB dabin flour ,"
+381,kicib uludi,under seal of Uludi ;,"under seal of Uludi … ,"
+382,NUMB sila dabin gur,"NUMB sila3 dabin-flour ,",NUMB sila3 semolina ;
+383,kicib luninmar dumu duga,"under seal of Lu-Ninmar , son of Duga ;",under seal of Duga son of Duga ;
+384,cunigin cebi NUMB sila gur,"total , its barley : NUMB sila3 ,","total , its barley : NUMB sila3 ;"
+385,abi NUMB geme u NUMB,"its labor : NUMB workdays , female laborers ;","labor involved : NUMB female laborer workdays ,"
+386,NUMB ziz gur kicib lutu ugula kikken,"NUMB emmer , under seal of Lu-Utu , foremen of the mill ;","NUMB ( gur ) NUMB under seal of Lu-Utu , foreman of the mill ;"
+387,NUMB ce gur kicib urigalim ugula kikken,"NUMB barley , under seal of Ur-Igalim , foreman of the mill ;","NUMB barley , under seal of Ur-Igalim , foreman of the mill ;"
+388,giri luninmar dumu duga,"via Lu-Ninmar , son of Duga ;","via Duga , son of Duga ;"
+389,kicib urnigar,under seal of Ur-nigar ;,under seal of Ur-nigar .
+390,NUMB ce gur anebadu nar,"NUMB barley , Annebadu , the cantor ,","NUMB barley of … gur … ,"
+391,NUMB ce gur kicib ceckala,"NUMB barley , under seal of Šeškalla ,",NUMB barley did Šeškalla
+392,cunigin NUMB sila ce ziz gur,total : NUMB sila3 barley and emmer,"total NUMB , NUMB sila barley ;"
+393,laia NUMB sila ce gur,"the deficit : NUMB sila3 barley ,",deficit : NUMB sila3 barley ;
+394,laia NUMB gin la NUMB ce ku a zidaka,"the deficit : NUMB shekels NUMB grains silver , labor of flour ;",the deficit : NUMB ( mana ) NUMB shekels NUMB grains silver ;
+395,nigkak kala,account of KAla’a :,"account of Kalla ,"
+396,uludi dumu habanzizi,"Uludi , son of Ḫabanzizi ;","to Uludi … , son of Uludi … ,"
+397,mu usa e puzuricdagan badu,year after : “ The house Puzris-Dagan was erected . ”,year following : “ The house of Puzriš-Dagan was erected . ”
+398,lunincubur,"Lu-Ninšubur ,",( of ) Lu-Ninšubur
+399,ce irisarigta,grain from Irisagrig ( ? ),barley from Irisagrig
+400,ugula ala,"foreman : Alaya ,",foreman : Alla ;
+401,kicib urmes,under seal of Ur-mes ;,unders seal of Urmes ;
+402,dumu ursuen,son of Ur-Suen .,"son of Ur-Suen ,"
+403,musaraba,( A person who ) this inscription,and this inscription
+404,muni,and his name ( shall write on it ),and his own name
+405,gurumak erina,"inspection of the worktroops ,","inspection of ( labor- ) troops ,"
+406,girisega guapina,"personnel of the plow-oxen ,","personnel of ensis ( ? ) ,"
+407,guapin etur udu namenitala,"plow-oxen , stall , rams of … ,","plow-oxen ,"
+408,ki cunamugita,from Šunamugi,from Turaya
+409,lunincubur idab,did Lu-Ninšubur accept ;,"( of ) Lu-Ninšubur took ,"
+410,giri urnigar caduba,"via Ur-nigar , chief accountant ,","via Ur-Nigar , chief accountant ;"
+411,u urbaba dubsar,"and Ur-Baba , scribe ,","and Ur-Baba , the scribe of Ur-Baba ,"
+412,mu en nanna karzida bahun,"year : “ en ( -priestess ) of Nanna of Karzida was installed , ”",year : “ The priest of Nanna of Karzida was installed . ”
+413,X i ukim,… ukim ;,… canal
+414,X iduga adu,"… fine oil , Adu","… Adu , Adu ,"
+415,nubanda,the nubanda ;,"nubanda ,"
+416,X luazida,… Lu-azida .,… nin-inimgina ( ? ) ;
+417,nigkak kuc,accounts of leather,account of cubits ;
+418,u kicib dababi,"and sealed documents of their dab ,",and sealed documents of conveyances
+419,lunamanka,"Lu-namanka ,","Babati ,"
+420,NUMB sila NUMB gin gu hia gur,… NUMB sila3 NUMB shekels various pulses ;,"NUMB lamb , NUMB shekels oxen ,"
+421,NUMB gin celu,… shekels coriander ;,"NUMB shekels coriander ,"
+422,NUMB sila gamun,… NUMB ? sila3 cumin ( ? ) ;,NUMB lamb of Šarru-… ;
+423,NUMB sila NUMB gin cezibitum,… NUMB sila3 NUMB shekels še-zibītum spice ;,NUMB sila3 NUMB shekels …
+424,gu balabi NUMB sila NUMB gin,its bala pulse : NUMB ( ? ) sila3 NUMB shekels ;,its bala : NUMB shekels ;
+425,NUMB sila NUMB gin gutur usa,"NUMB sila3 NUMB shekels roughly crushed small pulses ,",NUMB sila3 NUMB shekels following :
+426,gu balabi NUMB sila,its bala pulse : NUMB sila3 ;,"its bala : NUMB sila3 ,"
+427,NUMB sila NUMB gin gamun gaz,"NUMB ( ? ) sila3 NUMB shekels crushed cumins ,","NUMB sila NUMB shekels of …-oil ,"
+428,gamun balabi NUMB sila NUMB gin,its bala cumin : NUMB ( ? ) sila3 NUMB shekels ;,"… sila3 NUMB shekels ,"
+429,NUMB X X gamun,… cumin ;,NUMB …
+430,NUMB cezibitum,… še-zibītum spice ;,NUMB ( mana wool for ) Ur-Urbartab
+431,NUMB celu gaz,"… crushed coriander ,","NUMB , NUMB of coriander ,"
+432,celu balabi NUMB sila NUMB gin,its bala coriander : NUMB ( ? ) … sila3 NUMB shekels ;,"its bala NUMB shekels ,"
+433,NUMB celu,… coriander ;,"NUMB coriander ,"
+434,NUMB sila NUMB gin gazi gaz,"NUMB sila3 NUMB ( ? ) shekels crushed sumac ,","NUMB sila NUMB shekels of …-oil ,"
+435,gazi balabi NUMB sila NUMB gin,its bala sumac : NUMB sila3 NUMB shekels ;,its bala : NUMB shekels ;
+436,NUMB gin gazi,… shekels sumac ;,"NUMB shekels … grains of silver ,"
+437,NUMB sila NUMB gin mun,… NUMB ? NUMB ? sila3 NUMB shekels salt ;,"NUMB lamb , NUMB shekels ,"
+438,X mana sig mun,… mana brick salt ;,"… šagu ,"
+439,X X NUMB gin cezibitum,… NUMB shekels še ? -zibītum ? spice ;,… NUMB shekel … .
+440,gamun balabi X NUMB sila,its bala cumins : … NUMB sila3 ;,… its bala : NUMB sila3 :
+441,NUMB sila celu gaz,"NUMB sila3 crushed coriander ,","NUMB sila “ pounded ” flour ,"
+442,celu balabi NUMB sila,its bala coriander : NUMB sila3 ;,"its bala : NUMB sila3 ,"
+443,NUMB sila gazi gaz,"NUMB sila3 crushed sumac ,","NUMB sila “ pounded ” flour ,"
+444,gazi balabi NUMB,its bala sumac : NUMB ;,its bala : NUMB ;
+445,NUMB sila mun gur,NUMB sila3 salt ;,NUMB sila3
+446,NUMB sila numun zahili,( and ) NUMB sila3 cress seed ;,"NUMB lamb of seed : ( gur ) NUMB ,"
+447,sadu kura,"regular provisions , cut ;",delivered ;
+448,ca urima,in/of Ur ;,in Ur .
+449,cunigin X NUMB sila X gin gu hia gur,total : … NUMB sila3 … shekels various pulses ;,total : NUMB sila3 NUMB shekels of oxen … ;
+450,cunigin NUMB sila X X gamun gur,total : NUMB sila3 x of cumin ;,… sila3
+451,cunigin NUMB sila NUMB gin celu gur,total : NUMB 1ban2 NUMB sila3 NUMB shekels coriander ;,"total : NUMB , NUMB sila3 NUMB shekels flour ,"
+452,cunigin NUMB X X X X gur,total : NUMB ( ? ) gur NUMB … ;,"total : NUMB … gur … ,"
+453,NUMB cezibitum,NUMB of še-zibītum spice ;,NUMB ( mana wool for ) Ur-Urbartab
+454,NUMB sila gamun,NUMB … NUMB sila3 cumins ;,NUMB lamb of Šarru-… ;
+455,NUMB numun zahili,NUMB of cress seed ;,"NUMB seed , field of seed , ( gur ) NUMB ,"
+456,NUMB sila kumul,( and ) NUMB sila3 ku-mul spice ;,NUMB lamb for …
+457,sadu lugal,regular provisions ( for ) the king,royal regular offerings ;
+458,u ziga nigdiri,"and booked-outs , additional ,",and lifted outs
+459,ca nibru,in/of Nippur ;,in Nippur ;
+460,NUMB sila gugal ara,NUMB sila3 ground big pulses ;,NUMB lamb of Šarru-… ;
+461,NUMB sila gutur usa,NUMB sila3 roughly crushed small pulses ;,NUMB lamb of Šarru-… ;
+462,NUMB sila zi gugal,NUMB sila3 big pulses flour ;,"NUMB sila3 flour ,"
+463,NUMB sila gugal,NUMB sila3 big pulses ;,NUMB lamb of Šarru-… ;
+464,NUMB sila gamun gaz,NUMB sila3 crushed cumin ;,"NUMB sila “ pounded ” flour ,"
+465,NUMB sila celu gaz,NUMB sila3 crushed coriander ;,"NUMB sila “ pounded ” flour ,"
+466,NUMB sila gazi gaz,NUMB sila3 crushed sumac ;,"NUMB sila “ pounded ” flour ,"
+467,sadu ca urima,"regular provisions in/of Ur ,",in Ur .
+468,ziga lugal,royal withdrawal ;,booked out of the king ( ’s account ) ;
+469,cunigin X gugal,total : … big pulses ;,total : NUMB
+470,cunigin NUMB sila gamun gaz,"total : NUMB sila3 crushed cumin ,","together : NUMB sila “ pounded ” flour ,"
+471,gamun balabi NUMB sila,its bala cumin : NUMB sila3 ;,… its bala : NUMB sila3 ;
+472,cunigin NUMB gamun,total : NUMB cumin ;,total : NUMB …
+473,cunigin NUMB sila celu gaz gur,"total : NUMB sila3 crushed coriander ,","total : NUMB , NUMB sila3 ,"
+474,cunigin NUMB celu gur,total : NUMB coriander ;,"total : NUMB coriander ,"
+475,cunigin NUMB sila NUMB gin gazi gaz,"total : NUMB sila3 NUMB shekels crushed sumac ,","together : NUMB sila NUMB shekels of naga ,"
+476,cunigin NUMB gazi gur,total : NUMB sumac ;,total : NUMB … NUMB sila3 gur ;
+477,cunigin NUMB cezibitum,total : NUMB of še-zibītum spice ;,total : NUMB …
+478,cunigin NUMB sila ukur,total : NUMB sila3 u2-kur spice ;,total : NUMB sila3 …
+479,cunigin NUMB sila numunzahili,total : NUMB sila3 cress seed ;,total : NUMB sila3 …
+480,cunigin NUMB sila mun gur,total : NUMB sila3 salt ;,total : NUMB sila3 salt
+481,diri X gamun NUMB,surplus : … cumin at NUMB each ;,"… labor , surplus : NUMB"
+482,diri NUMB sila cezibitum NUMB,surplus : … NUMB sila3 še-zibītum spice at NUMB each ;,surplus : NUMB sila3 extra
+483,diri NUMB sila NUMB gin mun NUMB gurta,"surplus : NUMB sila3 NUMB shekels salt , at NUMB each ,","surplus : NUMB sila NUMB shekels of naga ,"
+484,gubi NUMB sila NUMB gin gur,"its pulses : NUMB sila3 NUMB shekels ,","NUMB , NUMB , NUMB shekels ,"
+485,diri laia gua,the surplus the deficit having ‘consumed’ ;,surplus : NUMB
+486,laia NUMB sila gu hia,"deficit : NUMB sila3 various pulses ,",deficit : NUMB sila3
+487,NUMB sila NUMB gin celu,"NUMB sila3 NUMB shekels coriander ,","NUMB lamb , NUMB shekels of coriander ,"
+488,NUMB sila NUMB gin gazi gur,"NUMB sila3 NUMB shekels sumac ,","NUMB , NUMB , NUMB , NUMB sila3 NUMB shekels flour ,"
+489,NUMB sila ukur,"NUMB sila3 u2-kur spice ,",NUMB lamb for …
+490,NUMB sila NUMB gin numun zahili,"NUMB sila3 NUMB shekels cress seed ,","NUMB lamb of seed : NUMB shekels of silver ,"
+491,X NUMB sila NUMB gin kumul,"… NUMB sila3 NUMB shekels ku-mul spice ,",… sila3 NUMB shekel … .
+492,NUMB sila zizibianum,… NUMB sila3 zizibiānum spice,NUMB lamb for …
+493,NUMB mana sig mun,"( and ) … mana brick salt ,",NUMB mina of salt
+494,laiam,it is the deficit ;,are the deficit .
+495,nigkak mungazi,account of spices,account of Nigla’a ;
+496,urigalim,"( of ) Ur-Igalim ,","Ur-Igalim ,"
+497,iti cesagkuta,"from month “ Harvest , ”",from the month “ Harvest ” ( ordNUMB month )
+498,iti diri cesagkuce,"to the extra month “ Harvest , ”","to month “ Harvest , ”"
+499,iti NUMB,it is NUMB months .,It is ( a period of ) twelve months :
+500,lugal kalga,the mighty man,"strong king ,"
+501,lu e nanna,the man who the temple of Nanna,when the temple of Nanna
+502,indua,"built ,",built .
+503,niguliake pa munae,"he made an everlasting thing appear resplendently , ( namely )","most resplendant of of the Anuna gods ,"
+504,gaba abkaka,on the sea coast,confronted him .
+505,kisara namgaec bisilim,in the … he restored long-distance trade to health,for long-distance trade agents .
+506,ma magan cuna munigi,and returned the boats of Magan to his control .,"and the boats of Magan ,"
+507,lubala,( To ) Lu-balaya :,"Babati ,"
+508,nurickurka,Nur-Iškur,"Babati ,"
+509,cu iba,has been released .,—the delivered—
+510,dumu urnigar cuc,"son of Ur-nigar , chief livestock administrator .","son of Ur-nigar , cattle manager ."
+511,NUMB guruc u NUMB,NUMB laborers for NUMB days,"NUMB male laborer workdays ,"
+512,ummata dugecikace ma su gida,"from Umma to Dugeši an empty boat towed ,","from Umma to unload ,"
+513,u NUMB ce gec ea u ma siga,"for NUMB days barley threshing and in the boat loaded ,","for NUMB workday barley into the barge loaded ,"
+514,u NUMB i salac ma gida,"for NUMB day to the Salla canal boat towed ,","NUMB workdays , ‘threshing’ at NUMB ( gur per day ) ;"
+515,u NUMB ce bala ce bala u gurua imura,"for NUMB days grain unloaded , grain transferred , and silo plastering ;",for NUMB workday barley transferred ;
+516,ugula urcakkan,"foreman : Ur-Šakkan ,",foreman : A'abba
+517,kicib urcara,sealed document of Ur-Šara ;,under seal of Ur-Šara ;
+518,mu en gaec bahun,year : “ The lord of Ga’eš was installed . ”,year : “ The high-priestess of Ga’eš was hired . ”
+519,dumu ceckala,son of Šeškalla .,"son of Šeškalla ,"
+520,kicib ra guruma,sealed documents of inspections,"under seal of Belī-azu ,"
+521,cabrane,of the chief house administrators,of the chief household administrators
+522,ab gu guba,"cows and oxen stationed ,","oxen cows , stationed ,"
+523,mu usa en eridu bahunga,year following : “ The en- ( priest ) of Eridu was hired . ”,"year following : “ The en ( -priest ) in Eridu was installed , ”"
+524,NUMB udu bargal,"NUMB sheep with fleece ,","NUMB sheep , with fleece ,"
+525,NUMB sila bargal,"NUMB lambs with fleece ,","NUMB lamb , with fleece ,"
+526,NUMB udu barsuga,"NUMB sheep without fleece ,",NUMB fleece-less sheep ;
+527,NUMB ud mac hia,"NUMB mixed nanny and billy goats ,","NUMB various doe goats ,"
+528,lusuen idab,Lu-Suen took ;,Lu-Suen accepted ;
+529,mu NUMB sikiba geme ucbar,"NUMB years , wool rations of the female weavers ,","NUMB , wool rations of the female weaver ,"
+530,ugula abagula,"foreman Abbagula ,",the foreman Abba-gula .
+531,ugula utubae,"foreman Utu-ba’e ,",foreman : Utu-ba’e ;
+532,ugula kuda,"foreman Kuda ,",foreman : Kuda ;
+533,u eb tuda,"and … ,","and born ,"
+534,mu enmahgalana,year : “ Enmaḫgalana . ”,Year : “ Enmahgalana was installed ” .
+535,urbaba,"Ur-Baba ,","Ur-Baba ,"
+536,dumu ureninnu,"son of Ur-Eninnu ,","son of Ur-Eninnu ,"
+537,ca dugan,"in the pouch ,","in the pouches credits ,"
+538,ekas ca girsu,"messenger house in Girsu ,",in Girsu
+539,iti ezemdumuzika,"from month “ Festival-of-Dumuzi , ”","Month : “ nesag offering , ”"
+540,iti ceilace,"to month “ Barley-carried , ”","to month “ Barley-lifted , ”"
+541,culgihazir,"to Šulgi-ḫazir ,","Babati ,"
+542,NUMB tug ucbar tur sumun,"NUMB old small “ weaver ” garments ,","NUMB old sickles ,"
+543,NUMB tug cagadu sumun,"NUMB old šagadu garments ,","NUMB old sickles ,"
+544,mu ucbar X,( for ) the … weavers ;,year “ … ” .
+545,NUMB tug ucbar tur,"NUMB small “ weaver ” garments ,","NUMB weaver garments ,"
+546,NUMB tug ucbar zu uh,"NUMB “ weaver ” garment , moth-eaten ;","NUMB “ ušbar ” garment ( s ) ,"
+547,mu amarsuen lugale urbilum muhul,"year : “ Amar-Suen , the king , destroyed Urbilum ; ”",year : “ xxx . ”
+548,kicib ikala,"under seal of Ikalla ,",under seal of Ikalla .
+549,urcarake bandab,Ur-Šara assumed administrative responsibility for ( them ) .,to Ur-Sara
+550,urdingira,for Ur-dingira ;,"Ur-dingira ,"
+551,X,for Ur-…-du,of Nun-… ;
+552,anahili,for Anna-ḫili ;,Anah-ili
+553,iti ezem culgi,month : “ Festival of Šulgi . ”,"from the month “ Sowing ” ( ordNUMB month , Umma calendar )"
+554,ig gal elamata,from the great gate of Elam,to great farmer
+555,za cucince,"to the border of Susa ,",from the border of
+556,lugalra,for the king,to the king or the
+557,gu munagigi,they killed many cattle,"oxen to Apilum ,"
+558,udu munagigi,and killed many sheep .,"sheep , …"
+559,ensiensi elamake,All the governors of Elam,all the governors
+560,mucen tecbi nunuz zuhzuhgin,like birds stealing eggs together,for
+561,nera niba munake,were themselves taking booty .,"Babati ,"
+562,sag elam utuda,Persons born in Elam,"new-borns in the sheephouse ,"
+563,uba X,"At that time , …","At that time , … warrior . ."
+564,ur cusi X,like ( ? ) a dog … paws ( ? ),but the father-in-law
+565,giri X,"having lain at ( his ) feet ,",via …
+566,gutarla dumu gutimumara,"Gutarla , the citizen of Gutium ,","son of … ,"
+567,inim anake,the word of An,all the quarters of the sky
+568,cu numunibtag,had not touched .,—the delivered—
+569,geckim enlila,Of the signs of Enlil,"the mighty king ,"
+570,name numudagal,there were none at all regarding him .,"Babati ,"
+571,namlugalce,For the kingship,and the kingship
+572,a imatu,he bathed himself .,dedicate this .
+573,aga ban X X,The crown which they had …,A just royal ban2
+574,u ane X miniIL,and he carried … there .,When An
+575,ana binakbi,"For what he had done there ,","the trusted NUMB of An ,"
+576,mada gutimum,the lands of Gutium,the lands of Zabšali
+577,simudar,and Simudar,"Babati ,"
+578,sigba ugnim ki banitag,planted troops there in the south .,"from Ugnim ,"
+579,tulium,"Tulium ,","Babati ,"
+580,kar magur nuzu,"the harbor which knew ( ? ) no deep-going boats ,","A younger sister should share the inheritance of the estate ,"
+581,mete NI X,a fitting thing …,for … ;
+582,X,"because of … ,",of Nun-… ;
+583,nam X su X,"and because of … ,","curse he … ,"
+584,X urima,… in/of Ur,… of Ur
+585,zicagal X ku enlila,the encouragement of holy Enlil,… for Enlil ;
+586,anta X,from above …,"from above was … ,"
+587,X lugalbanda X X lu muciak,… Lugalbanda … did … to the men .,… for Lugalbanda
+588,X imidare AN gi X,… was splitting ( ? ) … upward …,PN
+589,NUMB udu X,"NUMB sheep … ,",NUMB sheep …
+590,NUMB sila X,"NUMB lamb … ,",NUMB lamb for …
+591,ki ahunita,from Ahuni,from ( the account of ) Aḫuni
+592,iti kisikininazu minkam,"month : “ ki-siki of Ninazu , ” the second ,",month “ kisiki-Ninazu ; ”
+593,mu simurum lulubu ara NUMB bahul,year : “ Simurum ( and ) Lulubu for the ordNUMB time were destroyed . ”,year : “ Simurum Lulubu for the ordNUMB time were destroyed . ”
+594,GAN kab duga,"fields , inspected ,","field area : Duga ,"
+595,cabra sangame,"of chief household administrators and chief temple administrators ,",( for ) the šabra ( and ) sanga administrators ;
+596,mu hurti bahul,year : “ Ḫurti was destroyed . ”,year : “ Ḫurti were destroyed . ”
+597,a urickur,"labor of Ur-Iškur ,","labor of Ur-Iškur ,"
+598,ki lugalazidata,from Lugal-azida,from Turaya
+599,gemenungalke,did Geme-Nungal,"Babati ,"
+600,u cudurul dumuni,"and Šu-durul , her son ,","and Puzrum-Ninkarke ,"
+601,igi urickur,"before Ur-Iškur ,",before : Ur-Iškur .
+602,igi dumu ursuen,"before the son of Ur-Suen ,","before : Ur-Suen , the son of Ur-Suen ,"
+603,igi luickur,"before Lu-Iškur ,",before : Muru ;
+604,igi tulta dumu lugalhegal,"before Tulta , son of Lugal-ḫegal","before : Tulta ,"
+605,gala badag,"there is a work loss ,",to
+606,ce NUMB silata agdam,"barley , NUMB sila3 per ( day ) will be measured out ,",( for ) NUMB sila3 barley each ( day ) will be … ;
+607,mu lugalbi inpa,did he the royal name invoke ;,the royal name he invoked ;
+608,mu magurmah enlila babdu,year : “ The Big-Barge of Enlil was caulked . ”,year : “ Great-barge was fashioned ; ”
+609,cutul,"Šutul ,","Babati ,"
+610,dumu gemenungal,son of Geme-Nungal .,son of Geme-Nungal
+611,gemeningal,"Geme-Ningal ,","Babati ,"
+612,dumu bagina,son of Bagina .,"son of Šū-Adda ,"
+613,u sagnigura,and debits,debits and debits of
+614,apa nabasata,From the side of the Nabasa canal :,for Nabasa ;
+615,NUMB ninda gid NUMB kuc dagal NUMB kuc sukud,"NUMB ninda the length , NUMB cubit the width , NUMB cubit the height ,",NUMB ninda NUMB cubits the length ;
+616,aca NUMB sar,the volume NUMB sar ;,field : NUMB sar ;
+617,NUMB ninda gid NUMB kuc dagal NUMB kuc sukud,"NUMB ninda the length , NUMB cubit the width , NUMB cubits the height ,",NUMB ninda NUMB cubits the length ;
+618,aca NUMB sar,the volume : NUMB sar ;,field : NUMB sar ;
+619,apisal X X,Apisal … ;,in Apisal …
+620,aca X,the volume …,"field Bur… ,"
+621,a X,from the side of …,"labor of Ur-dukuga ,"
+622,NUMB ninda gid NUMB kuc dagal NUMB kuc sukud,"NUMB ninda the length , NUMB cubit the width , NUMB cubit the height ;",NUMB ninda NUMB cubits the length ;
+623,aca NUMB sar NUMB gin,"the volume NUMB sar , NUMB shekels .","field : NUMB sar NUMB shekels ,"
+624,e aca pirigturginDUce,For a levee in the field Pirigtur-gin-DU,field Hillock-of-plantoil ;
+625,cunigin NUMB ninda gid,Total : NUMB ninda the length .,total : NUMB ninda long without ( work to be done ) ;
+626,cunigin NUMB sar kin sahar u usag,Total : NUMB sar the activity for earthwork and reed bundle for barges,total : NUMB ( volume- ) sar soil ;
+627,e aca lugalmusa gaba agectinaka,The levee of the Lugal-mussa field that is in front of A-geštin field,field up against … ;
+628,e kisumuna gida,has been measured up to the levee of a plot with poor soil ? ;,long house
+629,ugula sanga dumuzi u sanga ninDARa,the foremen ( are ) the chief adminstrator of ( the temple of ) Dumuzi and the chief administrator of ( the temple of ) Nin-DARa .,"foremen , temple administrator and Dumuzi ,"
+630,mu guza enlila badim,Year : The throne of Enlil was fashioned,year : “ The throne of Enlil was crafted . ”
+631,erin balace guba,"worktroopes to bala stationed ,",( for ) the work-troops sitting out the corvée duty
+632,erin kicgati,worktroops of Kišgati ( ? ),"( labor- ) troops , head-plows , of"
+633,im laia,tablets of deficits,"tablets , debts of tablets"
+634,u nigkak,"and accounts ,",and accounts
+635,iti paue,"year “ Pa’ue , ”","month “ Pa’ue , ”"
+636,nimintaba,"For Nimintaba ,","Babati ,"
+637,"culgi,",Šulgi,"Babati ,"
+638,giri cuecdar sagi,"via Šu-Ešdar , the cupbearer ,","via Šū-Ištar ,"
+639,bala u NUMB,"bala , the ordNUMB day ;",for NUMB workday barge unloaded ;
+640,mu en inanna unuga mace ipa,year : “ The high-priest of Inanna in Uruk by means of extispicy was chosen . ”,year : “ The high-priest of Inanna with extispicy was named . ”
+641,cuecdar,"Šu-Ešdar ,",of Šu-ešdar ;
+642,sagi,"cup-bearer ,",cupbearer .
+643,dumu X,"son of …-du ,",son of Ur-…
+644,ecucuma,"house of consignments ,",house-of-receipt
+645,ucbar X,"weavers , Lu-… ,","weavers ,"
+646,e ucbar egal,"house of weavers of the palace ,","in the palace ,"
+647,u e ucbar nindingir,and house of weavers of the priestess,and of the household of the priestess
+648,baba,"of Baba ,",To Baba
+649,luinimnigsaga,"Lu-inimnigsaga ,","Babati ,"
+650,cuera,"Šu-Erra ,",( for ) Šu-Erra ;
+651,muhaldim lugal,"royal cook ,","king of the cook Uršu ,"
+652,dumu zakili,"son of Zak-ilī ,","son of Šū-Adda ,"
+653,NUMB uztur,"NUMB duck ,",NUMB ( mana wool for ) Ur-Urbartab
+654,NUMB ir,"NUMB pigeon ,",NUMB ( mana wool for ) Ur-Urbartab
+655,NUMB tugur,"NUMB dove ,",NUMB of tug-sag work norm
+656,NUMB cahNEturnitagecgi,"NUMB male piglet , canebrake type ,",NUMB ( mana wool for ) Ur-Urbartab
+657,nigu ningace,for food of my queen ;,"Babati ,"
+658,egala banku,brought to the palace ;,"into the palace brought ,"
+659,itita u NUMB bazal,of the month the ordNUMB day passed ;,"of the month day NUMB elapsed ,"
+660,urlugaledina,of Ur-Lugaledina ( ’s account ) ;,"Babati ,"
+661,iti kisiki ninazu,"month : “ ki-siki-of-Ninazu , ”",month : “ ki-siki of Nin-azu ; ”
+662,babara X,"Babara … ,",…
+663,dumu X,"son of Lu-… ,",son of Ur-…
+664,kicib ce ziga,"sealed documents , grain , credits ,","under seal of barley ,"
+665,nurickur,"to Nūr-Adda ,","Nūr-Adda ,"
+666,sadu cara cupalil,"regular offering for Šara … ,",regular offerings of Šara ;
+667,guedinata,from Gu-edina,from Gu’ednina
+668,ki egalesita,from Egalesi,from Turaya
+669,hala cu bati,did Ḫala receive ;,Ikunum received ;
+670,iti nesagce,"to the month “ First-fruit offering , ”",through the month “ nesag sacrifice ” >> .
+671,mu usa cacru bahul,year after : “ Šašru was destroyed . ”,year following : “ Šašru was destroyed . ”
+672,hala,"Ḫala ,","for oxen distributed ,"
+673,dumu lugalemah,"son of Lugal-emaḫ ,",son of Lugal-emaḫ .
+674,lu lunga cara,brewer of Šara .,did Šara receive ;
+675,uc ursilaluh,"Dead : Ur-silaluḫ ,","dead , Ur-silaluh ."
+676,NUMB GAN eurbidu ugula,"NUMB aš-c- ( worker ) , ‘field’ : E-urbidu , a foreman ,",NUMB field area : field of … ;
+677,NUMB GAN girinisa,"NUMB aš-c- ( worker ) , ‘field’ : Girini-isa ,","NUMB the surface ( of the ) Girini-isa ,"
+678,dumunime,"—they are his sons— ,",being her children ;
+679,NUMB GAN urgectinanka,"NUMB aš-c- ( worker ) , ‘field’ : Ur-Geštinanka ,","NUMB field area ( sowed with ) NUMB ,"
+680,NUMB lusukkalanka,"NUMB diš- ( worker ) : Lu-Sukkalanka ,",NUMB ( mana wool for ) Ur-Urbartab
+681,tir kisura idab,the Border-woods took in charge ;,forest Šum-bad-…
+682,NUMB ug dugani,"NUMB aš-c- ( worker with rations of ) NUMB ( sila3 barley ) , NUMB ( mana wool ) , porter : Dugani ,",NUMB ( workman ) porter : Lu-gamu .
+683,tir cunamugi idab,the Šunamugi-woods took in charge ;,forest Šum-bad-…
+684,NUMB GAN inimcara,"NUMB aš-c- ( worker ) , ‘field’ : Inim-Šara ,",NUMB field area : Inim-Šara
+685,NUMB lugalinimgina dumuni,"NUMB diš- ( worker ) : Lugal-inim-gina , his son ,","( and ) NUMB ( mina of wool for ) Lugal-inim-gina , her daughter ,"
+686,tir akunkum idab,the Akunkum-woods took in charge ;,forest Šum-bad-…
+687,cu uraba,"old : Ur-abba ,","is Ur-abba ,"
+688,NUMB GAN lucara dumuni,"NUMB aš-c- ( worker ) , ‘field’ : Lu-Šara , his son ,","NUMB field area : Lu-Šara , her daughter ;"
+689,tir kamari idab,the Kamari-woods took in charge ;,forest Šum-bad-…
+690,uc lugalitida,"dead : Lugal-itida ,",dead Lugal-itida ;
+691,NUMB GAN lugina,"NUMB aš-c- ( worker ) , ‘field’ : Lu-gina ,",NUMB field area : Lugina ;
+692,NUMB ahubaqar,"NUMB aš- ( worker ) : Aḫu-baqar ,",NUMB ( mana wool for ) Ur-Urbartab
+693,uc lucara,"dead : Lu-Šara ,",dead : Lu-Šara ;
+694,NUMB atanah,"NUMB diš- ( worker ) : Atannaḫ ,",NUMB ( mana wool for ) Ur-Urbartab
+695,tir aca amri idab,the Amri-field-woods took in charge ;,field forest Šum-bad-…
+696,NUMB GAN luabu,"NUMB aš-c- ( worker ) , ‘field’ : Lu-Abu ,","NUMB field area ( sowed with ) NUMB ,"
+697,NUMB luebgal,"NUMB aš- ( worker ) : Lu-ebgal ,","NUMB ( mana wool for ) Lu-ebgal ,"
+698,NUMB luenkidu,"NUMB diš- ( worker ) : Lu-Enkidu ,",NUMB ( mana wool for ) Ur-Urbartab
+699,dumu dadaga,"—sons of Dayadaga— ,","son of Dadaga ,"
+700,tir ula idab,the Ula-woods took in charge ;,forest Šum-bad-…
+701,NUMB GAN ug adudu,"NUMB aš-c- ( worker ) , ‘field’ , porter : Adudu ,",NUMB ( workman ) porter : Adudu .
+702,NUMB lugalkuzu dumuni,"NUMB diš- ( worker ) : Lugal-kuzu , his son ,","( and ) NUMB ( for ) Lugal-kuzu , her daughter ,"
+703,tir kirimah idab,the Big-orchard-woods took in charge ;,forest Šum-bad-…
+704,NUMB nu GAN inimanizi,"NUMB aš-c- ( worker ) , ( no! ) , ‘field’ : Inimanizi ,",NUMB field area Inimanizi ;
+705,NUMB nu uremah,"NUMB aš- ( worker ) ( no! ) : Ur-Emaḫ ,",NUMB ( workman ) : Ur-emah .
+706,NUMB nu utusaga,"NUMB diš- ( worker ) ( no! ) : Utu-saga ,",NUMB ( mana wool for ) Ninmu-ḫamušizu
+707,NUMB nu ururbartab,"NUMB diš- ( worker ) ( no! ) : Ur-Urbartab ,","NUMB Ur-Urbartab ,"
+708,tir i dula idab,the Dula-waterway-woods took in charge ;,forest Šum-bad-…
+709,NUMB cagubi zah,"NUMB aš-c- ( worker ) : Šagubi , flown ,","NUMB Seized runaways ,"
+710,tir aca carasi idab,the Šarasi-field-woods took in charge ;,field forest Šum-bad-…
+711,NUMB GAN uremac dumu ursilaluh,"NUMB aš-c- ( worker ) , ‘field’ : Ur-Emaš , son of Ur-silaluḫ ,",NUMB field area : Ur-silaluh .
+712,tir daguna idab,the Daguna-woods took in charge ;,forest Šum-bad-…
+713,ugula eurbidu,foreman : E-urbidu ;,foreman : A'abba
+714,NUMB GAN ceckala ugula,"NUMB aš-c- ( worker ) , ‘field’ : Šeškalla , foreman ,","NUMB field area : Šeškalla , foreman of foreman ;"
+715,NUMB inimanizi dumuni,"NUMB diš- ( worker ) : Inimanizi , his son ,","( and ) NUMB ( mina of wool for ) Inimanizi , her daughter ,"
+716,NUMB GAN lugalhili,"NUMB aš-c- ( worker ) , ‘field’ : Lugal-ḫili ,","NUMB field area ( sowed with ) NUMB ,"
+717,NUMB carazida,"NUMB aš- ( worker ) : Šara-zida ,","NUMB Šara-zida ,"
+718,NUMB luabu,"NUMB diš- ( worker ) : Lu-Abu ,",NUMB ( mana wool for ) Ur-Urbartab
+719,dumu alume,"—they are sons of Allu— ,","son of Šū-Adda ,"
+720,tir elugal idab,the Royal-house-woods took in charge ;,forest Šum-bad-…
+721,NUMB GAN akala dumu urtulmah,"NUMB aš-c- ( worker ) , ‘field’ : Akalla , son of Ur-tulmaḫ ,","NUMB field area : Akalla , son of … ;"
+722,NUMB girinisa dumuni,"NUMB diš- ( worker ) : Girini-isa , his son ,","( and ) NUMB ( for ) Girini-isa ,"
+723,tir kara idab,the Quay-woods took in charge ;,forest Šum-bad-…
+724,NUMB GAN ceckala,"NUMB aš-c- ( worker ) , ‘field’ : Šeškalla ,","NUMB field area : Šeškalla ,"
+725,NUMB lugalhegal dumuni,"NUMB aš- ( worker ) : Lugal-ḫegal , his son ,","NUMB Lugal-ḫegal , her daughter ,"
+726,tir masar idab,the Masar-woods took in charge ;,forest Šum-bad-…
+727,NUMB GAN ludingira dumu urlugal,"NUMB aš-c- ( worker ) , ‘field’ : Lu-dingira , son of Ur-lugal ,","NUMB field area : Lu-dingira , son of Ur-lugal ;"
+728,tir turuda idab,the Turuda-woods took in charge ;,forest Šum-bad-…
+729,NUMB GAN ug lugalhegal dumu urgu,"NUMB aš-c- ( worker ) , ‘field’ , porter : Lugal-ḫegal , son of Ur-gu ,",NUMB ( workman ) porter : Lu-gamu .
+730,NUMB luninazu dumuni,"NUMB diš- ( worker ) : Lu-Ninazu , his son ,","( and ) NUMB ( for ) Lugal-banda ,"
+731,tir nagsu idab,the Nagsu-woods took in charge ;,forest Šum-bad-…
+732,NUMB GAN lugalzage,"NUMB aš-c- ( worker ) , ‘field’ : Lugal-zage ,","NUMB field area ( sowed with ) NUMB ,"
+733,NUMB lunanna dumuni,"NUMB diš- ( worker ) : Lu-Nanna , his son ,","( and ) NUMB ( for ) Lu-Nanna , her daughter ;"
+734,tir girgec idab,the Girgeš-woods took in charge ;,forest Šum-bad-…
+735,NUMB GAN urnigar,"NUMB aš-c- ( worker ) , ‘field’ : Ur-nigar ,","NUMB field area : Ur-nigar ,"
+736,NUMB ata dumuni,"NUMB diš- ( worker ) : Ata , his son ,","( and ) NUMB water skins , her daughter ,"
+737,tir inime idab,the Inime-woods took in charge ;,forest Šum-bad-…
+738,cu abasaga,"old : Abba-saga ,",Abbasaga
+739,tir balatimdurun idab,the Bala’atimdurun-woods took in charge ;,forest Šum-bad-…
+740,NUMB GAN carakam,"NUMB aš-c- ( worker ) , ‘field’ : Šara-kam ,","NUMB field area : Šara-kam ,"
+741,tir kisura adab idab,the Kisura-of-Adab-woods took in charge ;,forest Šum-bad-…
+742,NUMB GAN bansa,"NUMB aš-c- ( worker ) , ‘field’ : Bansa ,","NUMB field area ( sowed with ) NUMB ,"
+743,NUMB ursukkal dumuni,"NUMB diš- ( worker ) : Ur-sukkal , his son ,","( and ) NUMB ( mina of wool for ) Ur-sukkal ,"
+744,tir zabala idab,the Zabala-woods took in charge ;,forest Šum-bad-…
+745,ugula ceckala,foreman : Šeškalla ;,"foreman Šeškala ,"
+746,NUMB GAN ug urgigir,"NUMB aš-c- ( worker ) , ‘field’ , porter : Ur-gigir ,","NUMB ( workman ) porter : Ur-gigir ,"
+747,tir i gala idab,the Big-waterway-woods took in charge ;,forest Šum-bad-…
+748,cu urcara dumu ARAD,"old : Ur-Šara , son of ARAD ,","Ur-Šara , son of ARAD ;"
+749,NUMB GAN luhegal,"NUMB aš-c- ( worker ) , ‘field’ : Lu-ḫegal ,","NUMB field area : Lu-ḫegal ,"
+750,NUMB halamami,"NUMB aš- ( worker ) : Ḫala-Mami ,",NUMB ( mana wool for ) Ur-Urbartab
+751,uc ludingira,"dead : Lu-dingira ,",dead : Lu-dingira ;
+752,NUMB lugalnesage,"NUMB diš- ( worker ) : Lugal-nesage ,",NUMB Lugal-nesage ;
+753,tir garcanaka idab,the Garšana-woods took in charge ;,forest Šum-bad-…
+754,NUMB GAN urcara dumu idia,"NUMB aš-c- ( worker ) , ‘field’ : Ur-Šara , son of Idi’a ,","NUMB field area : Ur-Šara , son of … ;"
+755,tir eringarcanaka idab,the troops-of-Garšana-woods took in charge ;,forest Šum-bad-…
+756,NUMB GAN ug luga,"NUMB aš-c- ( worker ) , ‘field’ , porter : Luga ,",NUMB ( workman ) porter : Lu-gamu .
+757,NUMB GAN urdumuzida dumu urmes,"NUMB aš-c- ( worker ) , ‘field’ : Ur-Dumuzida , son of Ur-mes ,","NUMB field area : Ur-mes , the son of Ur-mes ."
+758,tir canintina idab,the Midst-of-Nintina-woods took in charge ;,forest Šum-bad-…
+759,NUMB GAN cakusig,"NUMB aš-c- ( worker ) , ‘field’ : Šakusig ,","NUMB field area ( sowed with ) NUMB ,"
+760,NUMB urnigar,"NUMB aš- ( worker ) : Ur-nigar ,","NUMB Ur-nigar ,"
+761,NUMB luebgal,"NUMB diš- ( worker ) : Lu-ebgal ,","NUMB ( mana wool for ) Lu-ebgal ,"
+762,tir gabarigarcanaka idab,the Copy-of-Garšana-woods took in charge ;,forest Šum-bad-…
+763,tir macukudiri gu i namhani idab,"the Extra-prebend-boat-woods , bank of the Namḫani-waterway , took in charge ;",forest Šum-bad-…
+764,NUMB ARADcara dumuni,"NUMB diš- ( worker ) : ARAD-Šara , his son ,","( and ) NUMB ( for ) ARAD-Šara , her daughter ;"
+765,dumu handa nukiri,"son of Ḫanda , the orchardman ,",the son of Ilamlammuma
+766,tir ukunuti gu i culgihegal idab,"the Ukunuti-woods , bank of the Šulgi-ḫegal-waterway , took in charge ;",forest Šum-bad-…
+767,NUMB GAN abagina dumu urnigar dumu da,"NUMB aš-c- ( worker ) , ‘field’ : Abba-gina , son of Ur-nigar , son of Dayya ,","NUMB field area : Ur-nigar , son of Ur-nigar ,"
+768,ime taka,"remainder of the preceding year ,",remainder of the previous year :
+769,tir iribura idab,the Bura-town-woods took in charge ;,forest Šum-bad-…
+770,NUMB GAN lalmes,"NUMB aš-c- ( worker ) , ‘field’ : Lal-mes ,","NUMB field area ( sowed with ) NUMB ,"
+771,tir aduganigin idab,the Aduganigin-woods took in charge ;,forest Šum-bad-…
+772,NUMB GAN abudu,"NUMB aš-c- ( worker ) , ‘field’ : Abu-ṭab ,","NUMB field area ( sowed with ) NUMB ,"
+773,tir garsuda idab,the Garsuda-woods took in charge ;,forest Šum-bad-…
+774,NUMB GAN lugaldaga,"NUMB aš-c- ( worker ) , ‘field’ : Lugal-daga ,","NUMB field area ( sowed with ) NUMB ,"
+775,uc amaki pa urnigar,"dead : Ama-ki , oldest brother of Ur-nigar ,","dead : Ur-nigar ,"
+776,tir GANmac idab,the GANmaš-woods took in charge ;,forest Šum-bad-…
+777,ugula urcara,foreman : Ur-Šara ;,foreman : Ur-Šara ;
+778,cunigin NUMB GAN guruc ugula,"total : NUMB aš-c- ( workers ) , ‘field’ corporate slaves , foremen ;",total : <10 bur3> 3/4! iku surface area at NUMB each ;
+779,cunigin NUMB dumunita diri,total : NUMB extra male child ;,total : NUMB extra …
+780,cunigin NUMB dumunita,total : NUMB diš- ( worker ) male child ;,"total : NUMB son ,"
+781,cunigin NUMB guruc cugi,"total : NUMB diš-corporate slave , old NUMB ;","Total : NUMB old jenny ,"
+782,ugula idab,the foreman took in charge ;,foreman : took ;
+783,cunigin NUMB GAN guruc,"total : NUMB aš-c- ( workers ) , ‘field’ , corporate slaves ;",total : <10 bur3> 3/4! iku surface area at NUMB each ;
+784,cunigin NUMB guruc nudab,"total : NUMB aš-c- ( worker ) , corporate slave , not took in charge ;","total : NUMB male laborers , NUMB …"
+785,cunigin NUMB dumunita,"total : NUMB aš- ( workers ) , male children ;","total : NUMB son ,"
+786,cunigin NUMB dumunita,"total : NUMB diš- ( workers ) , male children ;","total : NUMB son ,"
+787,cunigin NUMB guruc cugi,"total : NUMB diš- ( workers ) , corporate slaves , old ones ;","Total : NUMB old jenny ,"
+788,cunigin NUMB guruc zah,"total : NUMB aš- ( worker ) , corporate slave , flown ;","Together : NUMB , NUMB workdays"
+789,cunigin NUMB guruc nudab,"total : NUMB aš- ( worker ) , corporate slave , not took in charge ;","total : NUMB male laborers , NUMB …"
+790,cunigin NUMB dumunita nudab,"total : NUMB diš- ( workers ) , male children , not passed by ;",total : NUMB son of …
+791,cunigin NUMB GAN ug guruc,"total : NUMB aš-c- ( workers ) , ‘field’ , porters , corporate slaves ;","total : NUMB ,"
+792,cunigin NUMB ug guruc NUMB sila ce NUMB mana sikita,"total : NUMB aš- ( worker ) , porter , corporate slave at NUMB sila3 barley NUMB mana wool each ;","total : NUMB male laborers , NUMB mana wool each ;"
+793,ugILme,—they are porters— ;,"( for ) the porters ,"
+794,cebi NUMB sila,"their barley : NUMB sila3 ,","the barley involved : NUMB sila3 ,"
+795,itida bedam,to be distributed monthly ;,Monthly Za'ul .
+796,sikibi NUMB mana,"their wool NUMB mana ,","its wool : NUMB mana ,"
+797,mua bedam,to be distributed yearly ;,"of silver , in NUMB of silver ,"
+798,gurum ak erin daba lu tira,inspection of the troops passed by as foresters :,"inspection of dab , Daga… ,"
+799,akala ensi umma,"Ayakalla , ensi of Umma ;",governor of Umma :
+800,giri catakuzu sukkal,"via Šata-kuzu , the sukkal ,","via Šarrum-ilī , the messenger ,"
+801,luinanna sukkal,"Lu-Inanna , the sukkal ,","Lu-Inanna , the messenger ,"
+802,u lunanna dumu inimcara,"and Lu-Nanna , son of Inim-Šara ;","and Lu-Nanna , son of Inim-Šara ;"
+803,iti ezemdumuzi,"month : “ Dumuzi festival , ”","month “ Festival of Dumuzi , ”"
+804,mu enuneamarsuenrakiag en eridu bahun,Year : “ Ennune-Amar-Suenra-ki’ag as priest of Eridu was installed . ”,year : “ the en-priest of Eridu was installed . ”
+805,NUMB ninda gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda the length , NUMB cubits the width , NUMB cubits the depth ,",NUMB ninda NUMB cubits the length ;
+806,acabi NUMB sar NUMB gin,its volume : NUMB sar NUMB shekels ;,"a man has hired a 60-gur boat ,"
+807,NUMB ninda NUMB kuc gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda NUMB cubits the length , NUMB cubits the width , NUMB cubits the depth ,",NUMB ninda NUMB cubits the length ;
+808,acabi NUMB sar la NUMB gin,its volume : NUMB sar NUMB shekel ;,"NUMB sar NUMB shekels ,"
+809,NUMB ninda gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda the length , NUMB cubits the width , NUMB cubit the depth ,",NUMB ninda NUMB cubits the length ;
+810,acabi NUMB sar,its volume : NUMB sar ;,"a man has hired a 60-gur boat ,"
+811,NUMB ninda NUMB kuc gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda NUMB cubit the length , NUMB cubits the width , NUMB cubits the depth ,",NUMB ninda NUMB cubits the length ;
+812,acabi NUMB gin,its volume : NUMB shekels ;,"a field shekels ,"
+813,NUMB ninda gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda the length , NUMB cubits the width , NUMB cubits the depth ;",NUMB ninda NUMB cubits the length ;
+814,NUMB ninda NUMB kuc gid nuak,NUMB ninda NUMB cubits the length ; ( the measurements are ) unfinished ;,"NUMB ninda NUMB cubits NUMB “ fists ” , the length ;"
+815,NUMB ninda NUMB kuc gid NUMB kuc dagal NUMB kuc bur,"NUMB ninda NUMB cubit the length , NUMB cubits the width , NUMB cubits the depth ;",NUMB ninda NUMB cubits the length ;
+816,acabi NUMB sar NUMB gin,its volume NUMB sar NUMB shekels ;,"a man has hired a 60-gur boat ,"
+817,NUMB gin DUBla,NUMB shekels DUBla ;,"NUMB shekels … grains of silver ,"
+818,cunigin NUMB sar NUMB gin kin sahar,total : NUMB sar NUMB shekel earthwork .,total : NUMB ( volume- ) sar soil ;
+819,imdua e niglagarka,pisé walls for the household of Nig-lagar .,for the weaving-houses
+820,NUMB guruc u NUMB,"NUMB laborer days ,","NUMB male laborer workdays ,"
+821,kisu aca manu,at the threshing floor of the field Willow stationed ;,from the threshing floor of the field willow ;
+822,ugula urmes,"foreman : Ur-mes ,","foreman : Urmes ,"
+823,giri tugac,via Tugaš ;,via Intake ;
+824,NUMB udu niga,NUMB grain-fed ram,"NUMB grain-fed ram ,"
+825,guza ena,"( for ) the throne of the high-priestess ,",throne of dust .
+826,giri nursuen sagi,"via Nur-Suen , the “ cup-bearer , ”","via cup-bearer , the enforcer ;"
+827,babancen mackim,Babanšen the responsible official ;,"Babanšen , responsible official ;"
+828,ki culgiamuta bazi,from ( the account of ) Šulgi-ayamu booked out ;,Booked out of Šulgi-a'amu ( ’s account ) .
+829,sipa unu,of shepherds and cowherds,shepherds and cowherds
+830,kinunir,"of Kinunir ,","Kinunir ,"
+831,u sagapin e ninhursag,"and the head-plowmen of the house of Ninḫursag ,","and head-ploughmen of the house of Ninḫursag ,"
+832,mu harci kimac bahul,"year : “ Ḫarši , Kimaš were destroyed . ” NUMB",year : “ Ḫarši Kimaš were destroyed . ”
+833,enancekiag,"En-Nanše-kiag ,","Babati ,"
+834,abamu,"of Abbamu ,","Abbamu ,"
+835,giri atu,"via Atu ,",via Atu ;
+836,nigkak a buru a ente,"accounts of labor of harvest and labor of wintertime ,","accounts of wintertime , over NUMB months ,"
+837,mu en nanna karzida bahun,year : “ The en- ( priestess ) of Nanna of Karzida was hired . ”,year : “ The priest of Nanna of Karzida was installed . ”
+838,dumu idisuen,"son of Idī-Suen ,","son of Šū-Adda ,"
+839,damgarne,of the exchange agents,of the merchants
+840,dumu X,"son of Ilī-… ,",son of Ur-…
+841,sagi ARADzu,"cupbearer , is your servant .","cupbearer ,"
+842,ceba gu i nigindu,"barley rations of the bank of the waterway Nigin-du ,","barley rations ( of ) the shepherd’s helper ,"
+843,NUMB sa gizi,NUMB bundles of good reed,"NUMB bundles , fodder-reed ,"
+844,guniginba NUMB,"in bales of NUMB bundles each ,",in each bale : NUMB bundles ;
+845,ki lugalmumanagta,"from Lugalmu-manag ,",from Turaya
+846,kicib alulu,sealed tablet of Alulu .,under seal of Alulu ;
+847,iti cekaragala,"Month : “ barley brought to the docks , ”","total : month “ Barley at the quay , ”"
+848,mu en eridu bahun,year : “ priest of Eridu is installed . ”,Year : She was installed as en-priestess of Eridu
+849,X,for Utu-… ;,of Nun-… ;
+850,luduga,for Lu-duga ;,Lu-duga ;
+851,X,for Lu-… ;,of Nun-… ;
+852,"s,alia",for Ṣallīya ;,"Babati ,"
+853,urbaba,for Ur-Baba ;,"Ur-Baba ,"
+854,hulania,for Ḫullāniya ;,"Babati ,"
+855,hablulu,for Ḫāblulu ;,"Babati ,"
+856,suhucgi,for Suḫušgi ;,"Babati ,"
+857,cuinanna,for Šū-Inanna ;,"Babati ,"
+858,camu,for Šamu ;,"Babati ,"
+859,cunigin NUMB sila kac saga cunigin NUMB sila kac du,total : NUMB sila3 fine beer ; total : NUMB sila3 common beer ;,"Together : NUMB ( ban ) NUMB sila fine beer , together : NUMB ( ban ) regular beer ,"
+860,cunigin NUMB sila ninda cunigin NUMB sila cum,total : NUMB sila3 bread ; total : NUMB sila3 onions ;,total : NUMB sila3 bread ; total : NUMB sila3 onions ;
+861,cunigin NUMB sila NUMB gin i cunigin NUMB sila NUMB gin naga,total : NUMB sila3 NUMB shekels oil ; total : NUMB sila3 NUMB shekels alkali-plant ;,total : NUMB sila3 NUMB shekels oil ; total : NUMB shekels alkali-plant .
+862,niginba,grand totals,"grand totals ,"
+863,guapin guba,"of plow-oxen , stationed ,","plow-oxen , stationed ,"
+864,u cabrane,"and chief household administrators ,","and the chief household administrators ,"
+865,NUMB masab NUMB,"NUMB masab-baskets at NUMB ban each ,",NUMB … NUMB …
+866,nurma bansi,filled ? with pomegranates,"Babati ,"
+867,tumalce,"to Tummal ,","Babati ,"
+868,giri laqipu candana,"via Laqipu , the š . ;",via Lu-Gešbare ;
+869,iti nigenlila,"month : “ that of Enlil , ”","Month : “ nesag offering , ”"
+870,mu en enki bahun,year : “ the lord of Enki was hired . ”,year : “ The high-priestess of Enki was hired ; ”
+871,NUMB sila NUMB gin ce gur X,"NUMB sila3 NUMB shekels barley … ,","NUMB sila3 NUMB shekels NUMB grains of silver ,"
+872,a lu hunga acaga,wages of the hirelings of the field … ;,labor of the hired men ;
+873,NUMB gur a lu hunga X,"NUMB  NUMB ( ? ) wages of the hirelings … ,","NUMB , wages of the hirelings , NUMB … ;"
+874,laia nigkak,deficit of the account,deficit of the account ;
+875,ARADdingira,of ARAD-dingira ( ? ) ;,"Babati ,"
+876,atu dumu lugalsagake,"Atu , son of Lugal-saga","of Atu , son of Lugal-saga ,"
+877,susudam,must replace it ;,be repaid ;
+878,dumu lugalsaga,son of Lugal-saga .,"son of Lugalsaga ,"
+879,NUMB dusumunus,"NUMB female equids ,","NUMB jennies ,"
+880,cugi,"old ,","old jenny ,"
+881,ki cuidimta,"from Šu-Idim ,",from Šu-Idim
+882,cenumun,seed grain,"( for ) seed ,"
+883,u GAN urua niginbabi,"and fields in plow , their grand totals",and NUMB field area …
+884,mu en inanna mace ipa,year : “ The en- ( priest ) of Inanna by the goat was found . ”,year : “ The high-priest of Inanna was named . ”
+885,NUMB udu niga barana,"NUMB sheep , barley-fed , for the dais of An ,","NUMB sheep , barley-fed , … ,"
+886,NUMB udu niga NUMB us NUMB udu niga NUMB us,"NUMB sheep , barley-fed , of ordNUMB grade , NUMB sheep , barley-fed , of ordNUMB grade","NUMB grain-fed sheep , ordNUMB quality ,"
+887,nanna,for Nanna ;,To Nanna
+888,NUMB macgal niga NUMB us dublamah,"NUMB buck , barley-fed , of ordNUMB grade for Dublamaḫ ,","NUMB buck , barley-fed , of NUMB grade ,"
+889,NUMB udu niga NUMB macgal niga gueusa,"NUMB sheep , barley-fed , NUMB bucks , barley-fed , “ following oxen , ”","NUMB sheep , barley-fed ; NUMB mature goat ,"
+890,ezemana,“ Festival of An ” ;,for boat of An ;
+891,NUMB udu niga NUMB us dur,"NUMB sheep , barley-fed , of ordNUMB grade , for “ Mound of the Roof ; ”","NUMB sheep of ordNUMB grade ,"
+892,NUMB udu niga NUMB us NUMB udu niga NUMB us,"NUMB sheep , barley-fed , of ordNUMB grade , NUMB sheep , barley-fed , of ordNUMB grade ,","NUMB grain-fed sheep , ordNUMB quality ,"
+893,nungal,for Nungal ;,"Babati ,"
+894,NUMB udu niga dublamah,"NUMB sheep , barley-fed , for Dublamaḫ ;","NUMB sheep , barley-fed , at Dublamaḫ ,"
+895,NUMB udu niga gueusa ANdur,"NUMB sheep , barley-fed , “ following oxen , ” for ANdur ;","NUMB sheep , grain-fed , “ following the ox , ”"
+896,NUMB udu niga X culgi TUR X,"NUMB sheep , barley-fed , … , for Šulgi … ;","NUMB sheep , barley-fed , for Šulgi ,"
+897,NUMB X dandanda,"NUMB … , for Dandanda ;","NUMB … for Geme2-an… ,"
+898,NUMB X ningal X,"NUMB … , for Ningal … ;",NUMB … Ningal
+899,NUMB gueusa ninuri,"NUMB ( sheep , barley-fed , ) “ following oxen , ” for Ninuri ;","NUMB “ attached to the ox , ”"
+900,NUMB X X,NUMB … Šu-Suen-ki’ag … ;,NUMB …
+901,NUMB X X,"NUMB … , for … ;",NUMB …
+902,NUMB udu niga X,"NUMB sheep , barley-fed , for …-kalla ;","NUMB sheep , barley-fed , … ,"
+903,NUMB udu niga X ninkununa,"NUMB sheep , barley-fed , … for Ninkununa ;","NUMB sheep , barley-fed , … ,"
+904,NUMB udu niga NUMB us gula,"NUMB sheep , barley-fed , of ordNUMB grade , for Gula ;","NUMB sheep , grain-fed , ordNUMB grade ,"
+905,NUMB udu niga NUMB sila ninegal,"NUMB sheep , barley-fed , NUMB lamb , for Nin-egal ;","NUMB sheep , grain-fed , NUMB lamb ,"
+906,giri suenabucu sagi,"via Suen-abušu , cup-bearer ,","via cupbearer , responsible official ;"
+907,ki abaenlilginta bazi,"booked out from Aba-Enlilgin ( ’s account ) ,","from Aba-Enlilgin ,"
+908,giri urculgira carabdu,"via Ur-Šulgi , šarabdu ;","via Ur-Šulgira , the šatam-official , and Šu-Suen-idi-ili-mālik the šarabdu-official ;"
+909,mu cusuen lugal urimake naruamah enlil ninlilra munedu,"year : “ Šu-Suen , king of Ur , the grand-stele for Enlil ( and ) Ninlil erected ; ”","Year “ Šu-Suen , king of Ur , erected grand-stele for Enlil and Ninlil . ”"
+910,NUMB ud adara,"NUMB adara-nanny ,",NUMB young women
+911,ki ludingira,from Ludingira,from Lu-dingira
+912,catili,by Šat-ilī ;,"Babati ,"
+913,NUMB lalkuda,10- ( troop ) of Lalkuda ;,NUMB ( mana wool for ) Ur-Urbartab
+914,NUMB lahutum,NUMB bricks by Lahutum ;,NUMB ( mana wool for ) Ur-Urbartab
+915,NUMB,"NUMB bricks ,","( Partial sum : ) NUMB , NUMB"
+916,NUMB ahuni,10- ( troop ) of Ahuni ;,"NUMB Aḫuni ,"
+917,cunigin NUMB sar NUMB gin NUMB sig,"total : NUMB ( brick ) -sar NUMB shekels bricks ,","together : NUMB sar NUMB shekels of brick ,"
+918,a NUMB,"at labor of NUMB ( bricks per workday ) ,","labor of NUMB ( bricks per workday ) ,"
+919,gemebi NUMB gin u NUMB,"the female laborers involved : NUMB and NUMB shekels workdays ,","the female laborers involved : NUMB days NUMB shekels ,"
+920,ce NUMB silata bahun,"at NUMB sila3 per ( day ) hired ,","hired at NUMB sila3 barley each ( workday ) ,"
+921,cebi NUMB sila NUMB gin,"the barley involved : NUMB sila3 NUMB shekels ,","the barley involved : NUMB sila3 NUMB shekels ,"
+922,a sig gaga,"labor of carrying bricks ,","labor of brick transportation ,"
+923,ekibagara picahdingir,"( for ) the replacement house of Pišah-ilim ,",for the replacement house of
+924,muku mea,"delivery of Simat-Ea ,",delivery of whom received
+925,giri ickurtillat,via Adad-tillatī ;,via Intake ;
+926,mu cusuen lugale naruamah enlil ninlilra munedu,"year : “ Su-Suen , the king , Great-stele for Enlil and Ninlil erected . ”","year : “ Šu-Suen , the king , erected great-stele for Enlil and Ninlil . ”"
+927,culgikiursakalamaka,Šulgi-ki'ursa-kalama,"Babati ,"
+928,lu tagani,"his person in charge of sacrifices ,",to another man
+929,alanani,a statue of him ( Šulgi ),a statue of him
+930,mudu,he created .,build .
+931,alana,The statue :,"Babati ,"
+932,a cuma,Given Strength,given supreme power
+933,nindara,"by Nindara ,","For Nindara ,"
+934,zicagal irina,"The Inspiration of His City ,","sheep skins “ ( soaked ) with madder , ”"
+935,KA bura,"the opening ( ? ) of the bowl ,","… ” ,"
+936,ki anaka aba cu tum,dealing with the cows in the Place of An .,from Lower Sea
+937,u ezemaka,On the day of the festival,"and …-zi ,"
+938,e ninmarka,"in the temple of Ninmar ,",house of Ninmar ;
+939,sag kisala daba,when the first ( offerings ? ) are taken into the courtyard :,"seized , the weapons ;"
+940,NUMB dug dida,"NUMB jugs of sweet-wort ,","NUMB jugs of common dida-beer ,"
+941,NUMB dug kac,"NUMB jugs of beer ,","NUMB beer , the jug of wort ,"
+942,NUMB zi lugal,"NUMB and NUMB of royal flour ,","NUMB of flour , ( according to the ) royal ( measure ) ,"
+943,NUMB gada gadul,NUMB linen cover,"NUMB linens , head ,"
+944,NUMB gada guza,"and NUMB linen ( cloth ) for the throne ,","NUMB linens , head ,"
+945,dardu erin u gabra erin,"cedar sprouts ( ? ) and cedar 'herders' ,","gabra ( herder ) of worktrooper2 , ploughmen , ox-drivers , and oxen managers"
+946,NUMB mana ara NUMB,"NUMB times NUMB minas of them ,",2/3rd mina of silver
+947,NUMB ku aldara,"NUMB split fish ,","NUMB silver , agul silver ,"
+948,NUMB mun gur lugal,"NUMB royal gur of salt ,",NUMB royal gur of salt
+949,NUMB naga gur,"NUMB of soda ,",NUMB of alkali-plant
+950,dug sila |IGI×X|,"quart jugs of … ,",the street … ;
+951,NUMB ku X,"NUMB ( ? ) silver … ,",NUMB …
+952,ku aba,"fish of the sea ,",the sacred foundation ( platform )
+953,har X,"silver rings ,",forest Šum-bad-…
+954,NUMB dug X X,"NUMB jug of … oil ,",NUMB jug of wort …
+955,nigba gacamkam,were the gifts of the artisans .,gift of the new-year ;
+956,girsu ce ilaka,"In Girsu , in the <month> of barley transporting ,",", barley of Girsu ;"
+957,ma cu dua,a properly equipped boat,"storage facility erected ,"
+958,guabata dudam,"which is to be caulked ( on its return ) from Gu'abba ,","Babati ,"
+959,namlubeluda,the office of the 'master of ceremonies',"Babati ,"
+960,eta izi la,( and ? ) the NUMB who bears fire from the temple,“ The Ninazu ”
+961,gacamkam,belong to the artians .,"Babati ,"
+962,bala u NUMB,A term of NUMB days,for NUMB workday barge unloaded ;
+963,u NUMB,and a one-third ( prebend ),"on the ordNUMB day ( of the month ) ,"
+964,e kiesaga,"in the temple of Ki-es ,",house
+965,e girsuka NUMB,"one-third in the temple of Girsu ,","NUMB , NUMB workdays ,"
+966,ma ec ge zal,that when the boat spends the night at the shrine,
+967,u ma kare tagdabi,and when the boat lands at the quay ;,"and the boat of … ,"
+968,nigba NUMB,an allotment of NUMB of that,gift .
+969,ma niginbarce deabi,"for when the boat is taken to the outer district ,","for the boat of pots to unload ,"
+970,nigdabi lu nudatuku,these requisitions were owed to no person .,to another man
+971,ur gu udu egal esag,Legs of beef and mutton of the palace and the grain-stores,the hostile territory
+972,u bara ningirsuka,"and the dais of Ningirsu ,","and daises of Ningirsu ,"
+973,namcita,"the office of the šita-priest ,","Babati ,"
+974,kislah cuku agubi,"with its uncultivated land , subsistance plots , holy water ,",NUMB
+975,esag udu egal,"the grain-store of the palace sheep ,","sheep of the palace ,"
+976,ur udu ama siki,"legs of wool-bearing mother sheep ,","sheep , mother , mother ,"
+977,NUMB sila inun,"NUMB quarts of ghee ,","NUMB sila3 ghee ,"
+978,NUMB zulum lugal,"NUMB of royal dates ,","NUMB dates , royal ( measure ) ,"
+979,NUMB gar,NUMB plus NUMB of cheese,"NUMB dried cheese ,"
+980,NUMB ga,"NUMB of milk ,","NUMB suckling male kids ,"
+981,NUMB sila gectin,"NUMB quarts of wine ,","NUMB , NUMB ban , NUMB sila of raisins ,"
+982,NUMB pec cergu,"NUMB strings of figs ,","NUMB figs , apples ,"
+983,NUMB hachur cergu,"NUMB strings of apples ,",NUMB ( mana wool for ) apple-tree wood .
+984,ninda kaskal guabace,"food for the jourey to Gu'abba ,",to Guabba
+985,nigdab gacamkam,are the requisitions of the artisans .,"nigdab ( -offering ) of “ Holy Hill , ”"
+986,aca ambar tur,"The field Little Marsh ,",… the pens .
+987,aca kimura,"the field Kimura ,",field Muru ;
+988,aca gecgi tur,"the field Little Canebrake ,",( in the field ) Kamari ;
+989,aca agectina,"Vinegar Field ,",field Muru ;
+990,aca X,"the field … ,","field Bur… ,"
+991,girigena gacamkam,( this ) is the list ( of fields ) of the artisans .,"Babati ,"
+992,udu e lah,"The sheep come from ( ? ) the temple ,","sheep and head-ploughmen of the house of Ninḫursag ,"
+993,mac inima,"and the goats of the word ,",
+994,u uliace,"Forever ,","and …-zi ,"
+995,lu gec udun inacumda,"for the NUMB who will put wood into the oven for him ( the king ) ,",a man’s house
+996,luba lammani heme,may I be that man's guardian angel .,that person
+997,mumu hepade,May he invoke my name,"Mumu , the potter ,"
+998,enmu hetare,and tend to me .,"Babati ,"
+999,NUMB amar az,NUMB bear cub,NUMB bear cubs
+1000,ursuen dumulugal,"( from ) Ur-Suen , the king’s son :","Ur-Suen , the prince ,"
+1001,mu simurum u lulubu ara NUMB bahul,"year : “ Simurrum and Lullubu for the ordNUMB time was destroyed , ”",year : “ Simurrum and Lullubum for the ordNUMB time were destroyed ; ”
+1002,mu NUMB ceba,"NUMB years of rations ,","NUMB ( gur ) , barley rations of NUMB year ,"
+1003,girisega ugnim,personnel of Ugnim,"of Ugnim ,"
+1004,emeslam,"of the Emeslam ,","Babati ,"
+1005,X nerigal,the temple of Nergal,… nin-inimgina ( ? ) ;
+1006,in gudua,in Kutha .,in Ešnunna .
+1007,nin me,"the queen of battle ,","in the queen of the Eanna temple ,"
+1008,dam kiaganir,"his beloved spouse ,","her beloved wife ,"
+1009,argibilu zabar,her bronze argibil-structure,"bronze ,"
+1010,e geparakani,of the Gipar temple,house
+1011,nigkak ce cukura,"accounts ,  barley of distribution ,",accounts of barley
+1012,abamu u urlamma,"Abbamu an Ur-Lamma ,","and Ur-Lamma ,"
+1013,mu en inanna mace ipa,year : “ The en- ( priest ) of Inanna by goat was found . ”,year : “ The high-priest of Inanna was named . ”
