@@ -20,7 +20,8 @@ Please refer to [Full Documentation](http://opennmt.net/OpenNMT-py/) of OpenNMT 
 
 ### Translation Results
 
-Translation results are available in translation_results folder for all Neural Network Archicture.
+Translation results are available in translation_results folder for all Neural Network Architecture. For more details about Neural Network architecture and details, feel free to contact us on CDLI [Communication Channel](https://cdli-gsoc.slack.com/).
+
 
 ### Translating new Data
 
