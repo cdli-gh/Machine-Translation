@@ -22,7 +22,9 @@ Some redundant phrases were removed from CVS files, so you may observe that they
 This data is derived using the Original Dataset. While cleaning dataset, repetitive and missing phrases are removed. Cleaned Data set is only available as .txt files.
 
 **train files:** Contains 8117 phrase.
+
 **test files:** Contains 1015 phrases.
+
 **val files:** Contains 1015 phrases.
 
 ## Normalized dataset
