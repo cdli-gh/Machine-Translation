@@ -12,6 +12,11 @@ All dependencies can be installed via:
 ```bash
 pip install -r requirements.txt
 ```
+NOTE: If you have MemoryError in the install try to use:
+
+```bash
+pip install -r requirements.txt --no-cache-dir
+```
 
 Note that OpenNMT currently support PyTorch 1.0.1 only.
 
@@ -28,7 +33,7 @@ Translation results are available in translation_results folder for all Neural N
 Please use the below command to translate new Sumerian phrase to English phrase. We are assuming you have a text file placed in data folder as **sumerian_test.txt**.
 
 ```bash
-python translate.py -model trained_model/baseline_model.pt -src data/sumerian_test.txt -output pred.txt -replace_unk -verbose
+python translate.py -model trained_models/baseline_model.pt -src data/sumerian_test.txt -output pred_test.txt -replace_unk -verbose
 ```
 
 Now you have a model which you can use to predict on new data. We do this by running beam search. This will output predictions into `pred.txt`.
