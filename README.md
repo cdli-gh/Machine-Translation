@@ -26,6 +26,14 @@ pip install -r requirements.txt --no-cache-dir
 
 Note that OpenNMT currently support PyTorch 1.1 (should be work with 1.0)
 
+By this point, your system should be ready with all dependencies. Please use below command to check PyTorch verion.
+```bash
+python -c "import torch; print(torch.__version__)"
+```
+Output should be your PyTorch version >= 1.2.0
+
+If you still face any issues while installing dependencies for the project, feel free to ping us at our [Communication channel](https://cdli-gsoc.slack.com/).
+
 ## Quickstart
 Please refer to [Full Documentation](http://opennmt.net/OpenNMT-py/) of OpenNMT once before starting.
 
