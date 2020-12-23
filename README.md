@@ -52,5 +52,35 @@ python3 translate.py -model trained_models/baseline_model.pt -src data/sumerian_
 
 Now you have a model which you can use to predict on new data. We do this by running beam search. This will output predictions into `pred.txt`.
 
+### Results
+The best results obtained are shown in the second column of table below.
+
+| Model Architecture     | BLEU  |
+| ---------------------- | ----- |
+| Base Translator        | 19.6  |
+| Extended Translatator  | 21.6  |
+| Transformer Translator | 20.9  |
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cdli-gh/Machine-Translation/blob/master/LICENSE.md) file for details.
+
+## Citation
+
+```bibtex
+@inproceedings{punia-etal-2020-towards,
+    title = "Towards the First Machine Translation System for {S}umerian Transliterations",
+    author = "Punia, Ravneet  and
+      Schenk, Niko  and
+      Chiarcos, Christian  and
+      Pag{\'e}-Perron, {\'E}milie",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.308",
+    pages = "3454--3460",
+    abstract = "The Sumerian cuneiform script was invented more than 5,000 years ago and represents one of the oldest in history. We present the first attempt to translate Sumerian texts into English automatically. We publicly release high-quality corpora for standardized training and evaluation and report results on experiments with supervised, phrase-based, and transfer learning techniques for machine translation. Quantitative and qualitative evaluations indicate the usefulness of the translations. Our proposed methodology provides a broader audience of researchers with novel access to the data, accelerates the costly and time-consuming manual translation process, and helps them better explore the relationships between Sumerian cuneiform and Mesopotamian culture.",
+}
+```
