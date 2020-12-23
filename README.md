@@ -1,8 +1,11 @@
 # Translation for Sumerian and English
-Project aims to build and train a neural network-based encode-decoder architecture for English-Sumerian and Sumerian-English Machine Translation in order to support experts in cuneiform studies with automated translations.
+The project aims to build and train a neural network-based encode-decoder architecture for English-Sumerian and Sumerian-English Machine Translation to support experts in cuneiform studies with automated translations. For more details, please check our published [paper](https://www.aclweb.org/anthology/2020.coling-main.308/).
 
 ## Project Update
-Project is completed with implementing 3 different Neural Network architecture for Machine Translation task.
+The project carries out English<-->Sumerian Translation using parallel corpora. Presently we have only about 50K sentences for both languages as the parallel corpora. In contrast, around 1.47M sentences in the Sumerian monolingual corpus are also available.
+Please check out our current work, where we improve the NMT system by combining it with techniques like Back Translation, Transfer Learning, and Dual Learning that leverages the monolingual data.
+
+[**Semi-Supervised NMT for Sumerian<-->English**](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English)
 
 ## Installation
 Clone the repository. (We are assuming you have python version 3.6.x and pip is installed on your linux system)
